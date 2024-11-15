@@ -2,11 +2,11 @@
 "请求头": "电脑",
 "直接播放": "1",
 "热门推荐": "40",
-"主页url": "https://hsck63.25img.com/",
-//https://hsck63.25img.com
+"主页url": "https://www.njav.sbs",
+//www.njav.sbs-www.gcmd.cc-www.njav.sbs-MD视频
 
-"数组": "class=\"stui-vodlist__thumb lazyload\"&&class=\"play hidden-xs\">",
-"图片": "data-original=\"&&\"",
+"数组": "class=\"box-item\">&&class=\"meta\">",
+"图片": "src=\"&&\"",
 "标题": "title=\"&&\"",
 "链接": "href=\"&&\"",
   
@@ -20,15 +20,9 @@
 //"播放标题":"<span>&&</span>",
 //"播放链接":"href=\"&&\"",
 
-"搜索模式": "0",
-"搜索url": "https://hsck63.25img.com/?search2=ndafeoafa&search={wd}",
-"搜索数组": "class=\"stui-vodlist__thumb lazyload\"&&class=\"play hidden-xs\">",
-"搜索图片": "data-original=\"&&\"",
-"搜索标题": "title=\"&&\"",
-"搜索链接": "href=\"&&\"",
-"搜索链接前缀": "https://hsck63.25img.com",
+"搜索模式": "1",
 
-"分类": "日本W马$rw#W马中文$wz#日本Y马$ry#Y马中文$yz#国产新片$ycgc#欧美高清$om#国产视频$gc#动漫剧情$dm",
-"分类url": "https://hsck63.25img.com/?type={cateId}&p={catePg}",
+"分类": "日本视频$1#MD视频$2#国产视频$3",
+"分类url": "https://www.njav.sbs/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
 "筛选":""
 } 
