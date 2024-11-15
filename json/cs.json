@@ -21,7 +21,7 @@
 //"播放链接":"href=\"&&\"",
 
 "搜索模式": "1",
-"搜索url": "https://hsck63.25img.com/?p={catePg}&search2=ndafeoafa&search={wd}",
+"搜索url": "https://hsck63.25img.com/?search2=ndafeoafa&search={wd}",
 "搜索数组": "class=\"stui-vodlist__thumb lazyload\"&&class=\"play hidden-xs\">",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "title=\"&&\"",
