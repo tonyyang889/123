@@ -1,7 +1,7 @@
 {
   "作者": "YYH",
   "站名": "LIBVIO",
-  "主页url": "https://libvio.link",
+  "主页url": "https://www.libvio.cc",
   //"主页url": www.libfabu.com,lib.ifabu.vip-https://www.libvio.pw",
 
   "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
@@ -19,7 +19,7 @@
   "分类": "电影&剧集&动漫&日韩剧&欧美剧",
   "分类值": "1&2&4&15&16",
   
-  "分类url": "https://libvio.link/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "搜索模式": "1",
   "搜索url": "/search/-------------.html?wd={wd}&submit=",
@@ -31,15 +31,19 @@
 
   "影片地区": "地区：&&/",
   "影片类型": "类型：&&/",
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&/",
-  "简介": "display: none;\">&&</span>",
+  "导演": "",
+  "主演": "主演：&&/p",
+  "简介": "class=\"detail-content*\">&&</span>",
   
-  "线路数组": "<h3 class=\"iconfont&&</div>",
+  "线路数组": "class=\"iconfont icon-iconfontplay2\"&&/h3>",
   "线路标题": ">&&<[不包含:视频下载]",
   
-  "播放数组": "<ul class=\"stui-content&&</ul>",
-  "播放链接前辍": "https://libvio.link",
+  "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+  "播放列表":"<a&&/a>",
+  "播放标题": ">&&<",
+  "播放链接": "href=\"&&\"",
+  //"播放链接前缀": "https://www.libvio.cc",
+  //"跳转播放链接": "link_pre*url\":\"&&\"", 
   
   "免嗅":"0",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
