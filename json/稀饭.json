@@ -1,6 +1,6 @@
 {
   "作者": "YYH",
-  "站名": "4K影视",
+  "站名": "稀饭影视",
   "主页url": "https://xifanys.com/",
   //https://www.xifanys.vip/-xifanys.cc
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://xifanys.com/",
@@ -30,11 +30,12 @@
   "播放数组": "class=\"module-play-list-content&&</div>",
   "播放列表":"<a&&</a>",
   "播放标题": "<span>&&</span>",
-  "播放链接": "href=\"&&\"",
-  "播放链接前缀": "https://xifanys.com",
-  "播放链接后缀": "",
+  "跳转播放链接": "urlDecode(Base64(vod_director*url\":\"&&\"))", 
+  //"播放链接": "href=\"&&\"",
+  //"播放链接前缀": "https://xifanys.com",
+  //"播放链接后缀": "",
   
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
 "筛选":{
@@ -301,4 +302,3 @@
   {"n":"评分","v":"score"}]}]
  }
 } 
-
