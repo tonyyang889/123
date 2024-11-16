@@ -10,7 +10,7 @@
 //{"name": "旺旺┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_joystv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wwys.json"},
 //{"name": "追剧┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
 //{"name": "白相┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
-{"name": "稀饭┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xfys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
+{"name": "稀饭┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xfys解码","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 {"name": "糯米┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 {"name": "饺子┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_jztv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饺子影视.json"},
 //{"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
