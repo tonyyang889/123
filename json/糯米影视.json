@@ -24,7 +24,7 @@
 "播放链接": "href=\"&&\"",
 
 "搜索url": "https://www.wwgz.cn/index.php?m=vod-search&wd={wd}",
-"搜索模式": "1",
+"搜索模式": "0",
 "搜索数组": "class=\"pic\">&&class=\"pBottom\"",
 "搜索图片": "data-src=\"&&\"",
 "搜索标题": "class=\"sTit\">&&</span>",
