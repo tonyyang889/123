@@ -20,10 +20,16 @@
 
 "播放数组": "class=\"numList\">&&</div>",
 "播放列表": "<li&&/li>",
-"播放标题": "播放\">&&</a>",
+"播放标题": "class=\"sTit\">&&</span>",
 "播放链接": "href=\"&&\"",
+
 "搜索url": "https://www.wwgz.cn/index.php?m=vod-search&wd={wd}",
 "搜索模式": "1",
+"搜索数组": "class=\"pic\">&&class=\"pBottom\"",
+"搜索图片": "data-src=\"&&\"",
+"搜索标题": "\"vod_name\"*\"&&\"",
+"搜索副标题": "\"vod_remarks\"*\"&&\"",
+"搜索链接": "\"vod_id\":&&,",
 
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$26",
 "分类url": "http://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
