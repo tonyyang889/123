@@ -20,7 +20,7 @@
 {"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name":"金牌┃秒播","jar": "./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"name": "快看┃综合","key": "kuaikan01","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
-{"name": "360┃APP","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
+//{"name": "360┃APP","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"name":"影视界3┃采集","key":"ysj69","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
