@@ -6,42 +6,36 @@
 "主页url": "https://www.yanaifei.net/",
 "热门推荐": "40",
 
-"数组":"<a&&class=\"module-poster-item-info\">",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
+"数组":"class=\"public-list-div&&class=\"public-play",
+"图片":"data-src=\"&&\"",
+"标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
-"副标题":"class=\"module-item-note\"&&</div>",
+"副标题":"class=\"public-list-prb hide ft2\">&&</span",
 
-"搜索url": "https://www.yanaifei.net/vod/search/{wd}----------{pg}---.html",
+"搜索url": "https://www.yanaifei.net/search/index.html?keyword={wd}",
 "搜索模式": "1",
-"搜索二次截取": "",
-"搜索数组": "class=\"module-card-item-class\">&&</a>",
-"搜索图片": "data-original=\"&&\"",
-"搜索标题": "alt=\"&&\"",
-"搜索链接": "href=\"&&\"",
-"搜索后缀":"",
-"搜索链接前缀": "",
+
 
 "导演":"导演：&&</div>",
-"主演":"主演：&&</div>",
-"简介":"<p>&&</p>",
+"主演":"演员 :&&</div>",
+"简介":"class=\"text cor3\">&&</div>",
 
-"线路数组": "class=\"module-tab-item tab-item&&</div>",
-"线路标题": "<span>&&</span>",
+"线路数组": "class=\"swiper-slide\">&&/a>",
+"线路标题": "</i>&nbsp;&&<",
 
-"播放数组":"class=\"module-play-list&&</div>",
+"播放数组":"class=\"anthology-list-play&&</div>",
 "播放列表":"<a&&/a>",
-"播放标题":"span>&&</sp",
+"播放标题":"105px\">&&<",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.yanaifei.net/",
+//"播放链接前缀": "https://www.yanaifei.net/",
 
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
-"分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-"分类url":"https://www.yanaifei.net/vod/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类": "电影$39#电视剧$40#动漫$42#综艺$41",
+"分类url":"https://www.yanaifei.net/vod/list/{catePg}/{cateId}/{class}/3/0/0/0/0.html",
 "筛选":{
-"1":[
+"39":[
 {
 "key":"cateId",
 "name":"类型",
@@ -187,7 +181,7 @@
 ]
 }
 ],
-"2":[
+"40":[
 {
 "key":"cateId",
 "name":"类型",
@@ -300,7 +294,7 @@
 ]
 }
 ],
-"3":[
+"41":[
 {
 "key":"class",
 "name":"剧情",
@@ -398,7 +392,7 @@
 ]
 }
 ],
-"4":[
+"42":[
 {
 "key":"cateId",
 "name":"类型",
