@@ -6,6 +6,7 @@
 
 //sp
 {"name":"金牌┃秒播","jar": "./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"name": "天天┃app","jar":"http://cdn.qiaoji8.com/fix241114.jar","key":"csp_appcs","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"name": "骚火┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name": "糯米┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
@@ -27,7 +28,7 @@
 //{"name":"新6V┃磁力","key":"新6V","jar":"./app/fan.bmp","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
 //{"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 {"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
-{"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
+//{"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
 //{"name":"缘觉影视┃(XYQH)","jar": "./app/xiangl0718.bmp","key": "csp_XYQHiker_yjys","playerType": 2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yjys.json"},
 
 //{"name":"迅雷┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_迅雷","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷xyqh.json"},
