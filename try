@@ -45,6 +45,7 @@
 
 //磁力
 
+{"name":"新飘花电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xphdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/新飘花bt.json"},
 {"name": "BT┃磁力(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_bttt01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/bt天堂.json"},
 {"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 {"name":"新6V┃磁力","key":"新6V","jar":"./app/fan.bmp","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
