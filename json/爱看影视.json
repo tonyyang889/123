@@ -6,13 +6,13 @@
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.akysw.com",
   "热门推荐": "40",
   
-  "数组": "class=\"post-list video-list&&/a></p>",
-  "图片": "data-original=\"&&\"",
-  "标题": "title=\"&&\"",
+  "数组": "class=\"public-list-exp\"&&</div>",
+  "图片": "data-src=\"&&\"",
+  "标题": "alt=\"&&\"",
   "链接": "href=\"&&\"",
-  "副标题": "mr-xs-0\">&&</",
+  "副标题": "class=\"public-list-prb hide ft2\">&&</span",
   
-  "分类url": "https://www.akysw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+  "分类url": "https://www.akysw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
@@ -34,16 +34,17 @@
   "主演": "演员：&&</p>",
   "简介": "style=\"line-height: 20px;\">&&</p>",
   
-  "线路数组": "data-target=\"#ewave-playlist&&</li>",
-  "线路标题": ":;\">&&</a>",
+  "线路数组": "class=\"swiper-slide\"><i&&</a>",
+  "线路标题": "&nbsp;&&<span",
   
-  "播放数组": "id=\"ewave-playlist&&</ul>",
+  "播放数组": "class=\"anthology-list-play size&&</div>",
+  "播放列表": "<li&&</li>",
   "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://www.akysw.com",
+  "播放链接前缀": "",
   "播放链接后缀": "",
   
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 "过滤词":"",
 
@@ -406,4 +407,3 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"score"}]}]}
 } 
-
