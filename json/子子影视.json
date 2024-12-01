@@ -7,14 +7,14 @@
 "热门推荐":"40",
 "起始页":"1",
 
-"免嗅":"0",
-"嗅探词":".m3u8#.mp4#mp4",
+"免嗅":"1",
+//"嗅探词":".m3u8#.mp4#mp4",
 
-"数组": "class=\"module-item-pic\">&&/span>",
+"数组": "class=\"module-item-pic\">&&class=\"module-item-content",
 "图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
 "链接": "href=\"&&\"",
-"副标题": "<span>&&<",
+"副标题": "class=\"video-class\">&&</span>",
 
 "影片年代": "class=\"module-info-tag-link\">&&</a>",
 "影片类型": "更新：&&</p",
@@ -25,7 +25,8 @@
 "线路数组":"class=\"module-tab-item tab-item\"&&/span>",
 "线路标题":"span>&&<",
 
-"播放数组":"class=\"scroll-content\">&&</div>",
+"播放数组":"class=\"module-blocklist\">&&</div>",
+"播放列表":"<a&&</a",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://www.ziziys.net",
