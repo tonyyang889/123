@@ -20,7 +20,7 @@
 //{"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan0527.bmp","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 //{"name":"快看影视","jar":"./app/fan240306.bmp","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "荐片┃综合","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
-{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
+{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com"},
 {"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name":"低端┃直连","jar":"./app/fan.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 //{"name": "LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
