@@ -4,7 +4,7 @@
 
 "sites":[
 //{"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/Y556655/pro/master/json/cs.json"},
-{"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://120.224.7.90:808/www/List.asp?classid={cateId}&searchword=&page={catePg}"},
+{"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cs.json"},
 {"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name":"酷看┃秒播","jar":"./app/fan.bmp","key":"酷看","type":3,"api":"csp_Kkys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"快看影视","jar":"./app/fan240306.bmp","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}
