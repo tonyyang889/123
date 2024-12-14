@@ -1,117 +1,51 @@
 {
-"站名": "新视觉",
-"主页url": "https://www.k6080.com",
-//https://www.3wyy.com
-"请求头": "",
-"头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"热门推荐": "0",
-"起始页": "1",
-"直接播放": "0",
+"作者":"YYH",
+"站名":"黑狐综艺",
+"主页url":"http://kuaijiz.com",
+//http://heihu.info/来自奇优解析-http://woniu.info
+"数组":"<div class=\"stui-vodlist__box\">&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"pic-text text-right\">&&</span>",
+
 "倒序播放": "0",
-"图片代理": "0",
-"数组": "class=\"module-item-pic&&module-item\">",
-"图片": "data-src=\"&&\"",
-"标题": "title=\"&&\"",
-"副标题":"class=\"module-item-text\"&&</div>",
-"链接": "href=\"&&\"",
-"链接前缀": "",
 
-"导演": "",
-"主演": "",
-"简介": "剧情:&&</span>",
+"搜索url":"1122http://kuaijiz.com/search.php;post;searchword={wd}",
+"搜索模式":"1",
+"搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+"搜索后缀":"/view/",
 
-"线路数组": "module-tab-item tab-item&&</div>[排序:在线观看>极速-01>蓝光专享1]",
-"线路标题": "<span>&&</span>",
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.douyin",
 
-"播放数组": "class=\"scroll-content&&</div>[替换:<!--旧原来的*旧原来的-1-->>>空]",
-//*中间段用*号代替 <!--旧原来的-1--> <!-- <a href="/vplay/79904-4-1.html" title="播放点燃我，温暖你第01集"><span>第01集</span></a> --> <!--旧原来的-1-->
-"播放标题": "span>&&</span>",
-"播放链接": "href=\"&&\"",
-"免嗅": "1",
-"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:奇异视频>咪咕视频>搜狐视频>优酷视频]",
+"线路标题":">&&<",
 
-"分类url": "https://www.k6080.com/vodshow/{cateId}---{class}--{letter}---{catePg}---{year}.html",
-"分类": "综艺$3",
-"筛选":{
-"3":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"n":"全部","v":""},
-{"n":"综艺","v":"3"}
-]
-},
-{
-"key":"class",
-"name":"剧情",
-"value":[
-{"n":"全部","v":""},
-{"n":"真人秀","v":"真人秀"},
-{"n":"音乐","v":"音乐"},
-{"n":"旅游","v":"旅游"},
-{"n":"美食","v":"美食"},
-{"n":"曲艺","v":"曲艺"},
-{"n":"生活","v":"生活"},
-{"n":"运动","v":"运动"}
-]
-},
-{
-"key":"letter",
-"name":"字母",
-"value":[
-{"n":"全部","v":""},
-{"n":"A","v":"A"},
-{"n":"B","v":"B"},
-{"n":"C","v":"C"},
-{"n":"D","v":"D"},
-{"n":"E","v":"E"},
-{"n":"F","v":"F"},
-{"n":"G","v":"G"},
-{"n":"H","v":"H"},
-{"n":"I","v":"I"},
-{"n":"J","v":"J"},
-{"n":"K","v":"K"},
-{"n":"L","v":"L"},
-{"n":"M","v":"M"},
-{"n":"N","v":"N"},
-{"n":"O","v":"O"},
-{"n":"P","v":"P"},
-{"n":"Q","v":"Q"},
-{"n":"R","v":"R"},
-{"n":"S","v":"S"},
-{"n":"T","v":"T"},
-{"n":"U","v":"U"},
-{"n":"V","v":"V"},
-{"n":"W","v":"W"},
-{"n":"X","v":"X"},
-{"n":"Y","v":"Y"},
-{"n":"Z","v":"Z"}
-]
-},
-{
-"key":"year",
-"name":"年份",
-"value":[
-{"n":"全部","v":""},
-{"n":"2025","v":"2025"},
-{"n":"2024","v":"2024"},
-{"n":"2023","v":"2023"},
-{"n":"2022","v":"2022"},
-{"n":"2021","v":"2021"},
-{"n":"2020","v":"2020"},
-{"n":"2019","v":"2019"},
-{"n":"2018","v":"2018"},
-{"n":"2017","v":"2017"},
-{"n":"2016","v":"2016"},
-{"n":"2015","v":"2015"},
-{"n":"2014","v":"2014"},
-{"n":"2013","v":"2013"},
-{"n":"2012","v":"2012"},
-{"n":"2011","v":"2011"},
-{"n":"2010","v":"2010"}
-]
-}
-]
-}
+"播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+//"跳转解析": "默认$http://api.kuaijiz.com/player/index.php?t=m3u8&url=",
+"播放链接":"href=\"&&\"",
+"播放链接前缀":"",
+"跳转播放链接":"allowfullscreen=\"allowfullscreen*src=\"&&\"",
+//http://api.kuaijiz.com/content.php?vid=   http://api.kuaijiz.com/player/index.php?t=m3u8&url=
+
+"影片年代":"年份：&&</p>",
+"影片地区":"地区：&&<span",
+"影片类型":"类型：&&</a>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</a>",
+
+"搜索模式": "0",
+"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+
+"分类url":"http://kuaijiz.com/list/{cateId}_{catePg}.html;;au0",
+"分类":"综艺$4",
+"筛选":""
 }
