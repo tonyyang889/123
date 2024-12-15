@@ -5,7 +5,8 @@
 "sites":[
 
 //sp
-{"key": "csp_瓜子","name": "瓜子影视┃秒播","api": "csp_Gz360","jar": "https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
+{"name": "瓜子┃APP","key": "瓜子","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js","ext": "http://kxrj.site:55/lib/js/瓜子.js"},
+//{"name": "瓜子┃秒播","key": "csp_瓜子","api": "csp_Gz360","jar": "https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
 {"name": "天天┃app","jar":"./app/qj.bmp","key":"csp_appcs","type":3,"api":"csp_TTian","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"name":"影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_sldyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/闪雷电影.json"},
 //{"name":"雷电┃App","jar":"./app/qj.bmp","key":"雷电","type":3,"api":"csp_Slys","playerType":1,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
