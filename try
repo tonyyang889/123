@@ -69,7 +69,6 @@
 //{"name": "七七┃APP","key": "csp_77","jar":"./app/fan.bmp","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
 //{"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
-//{"name": "JOJO┃综合","key": "jojo_open","jar": "./app/jojo.bmp","type": 3,"api": "csp_Jojo","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 //{"name": "影视┃综合","key": "ysjzh","type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]},
 //{"name":"低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
