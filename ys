@@ -17,7 +17,7 @@
 //以上瓜子天天热播来源于https://github.com/13415129277/wj134/blob/main/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3
 
 //{"name": "瓜子影视┃秒播","key": "csp_瓜子","api": "csp_Gz360","jar": "https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
-{"name": "综艺┃综合","jar":"./app/xBPQ0808.bmp","key":"10hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/综艺.json"},
+//{"name": "综艺┃综合","jar":"./app/xBPQ0808.bmp","key":"10hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/综艺.json"},
 {"name":"影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_sldyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/闪雷电影.json"},
 
 {"name": "骚火┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
