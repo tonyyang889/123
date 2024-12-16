@@ -22,8 +22,8 @@
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/view/",
 
-//"免嗅":"0",
-"嗅探词":".m3u8#.mp4#.douyin",
+"免嗅":"1",
+"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
 
 "线路数组":"<a data-toggle=\"tab\"&&/a>[排序:奇异视频>咪咕视频>搜狐视频>优酷视频]",
 "线路标题":">&&<",
@@ -33,8 +33,8 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 //"跳转解析": "默认$http://api.kuaijiz.com/player/index.php?t=m3u8&url=",
-//"播放链接":"href=\"&&\"",
-//"播放链接前缀":"",
+"播放链接":"href=\"&&\"",
+"播放链接前缀":"",
 "跳转播放链接":"allowfullscreen=\"allowfullscreen*src=\"&&\"",
 //http://api.kuaijiz.com/content.php?vid=   http://api.kuaijiz.com/player/index.php?t=m3u8&url=
 
@@ -44,8 +44,6 @@
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
 "简介":"简介：&&</a>",
-
-"搜索模式": "1",
 
 "分类url":"http://kuaijiz.com/list/{cateId}_{catePg}.html;;au0",
 "分类":"综艺$4",
