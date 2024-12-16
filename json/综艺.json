@@ -33,8 +33,8 @@
 "播放标题":">&&<",
 //"跳转解析": "默认$http://api.kuaijiz.com/player/index.php?t=m3u8&url=",
 "播放链接":"href=\"&&\"",
-"播放链接前缀":"",
-"跳转播放链接":"allowfullscreen=\"allowfullscreen*src=\"&&\"",
+//"播放链接前缀":"",
+//"跳转播放链接":"allowfullscreen=\"allowfullscreen*src=\"&&\"",
 //http://api.kuaijiz.com/content.php?vid=   http://api.kuaijiz.com/player/index.php?t=m3u8&url=
 
 "影片年代":"年份：&&</p>",
