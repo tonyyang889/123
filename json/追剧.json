@@ -9,7 +9,7 @@
   "图片代理": "1",
 
   "数组": "class=\"content-card\">&&class=\"role\">",
-  //"图片": "data-original=\"&&\"",
+  "图片": "https://obs.gduamoe.com/upload/site_logo/20240624-1/9fe234d873548e292e6904d1afe435bb.png",
   "标题": "class=\"title\"><span>&&</span>",
   "链接": "href=\"&&\"",
   "副标题": "class=\"tag\">&&</div>",
