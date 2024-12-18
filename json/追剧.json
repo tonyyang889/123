@@ -6,11 +6,11 @@
   "播放请求头": "电脑",
   "热门推荐": "40",
   
-  "数组": "class=\"sc-clsGLE bpDygC\"&&class=\"sc-gGmKOd dSyuCV\">",
+  "数组": "class=\"content-card\">&&class=\"role\">",
   //"图片": "data-original=\"&&\"",
-  "标题": "<span>&&</span>",
+  "标题": "class=\"title\"><span>&&</span>",
   "链接": "href=\"&&\"",
-  "副标题": "class=\"sc-lcuiaG dyMYBm\">&&</div>",
+  "副标题": "class=\"tag\">&&</div>",
   
   "分类url": "https://zjuys.com/vod/show/id//{cateId}/class/{class}/area/{area}/year/{year}/page/{catePg}",
   "分类": "电影&连续剧&综艺&动漫",
