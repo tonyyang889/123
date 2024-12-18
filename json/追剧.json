@@ -5,7 +5,9 @@
   //https://zhuiying.tv/
   "播放请求头": "电脑",
   "热门推荐": "40",
-  
+  "倒序播放": "1",
+  "图片代理": "1",
+
   "数组": "class=\"content-card\">&&class=\"role\">",
   //"图片": "data-original=\"&&\"",
   "标题": "class=\"title\"><span>&&</span>",
@@ -18,11 +20,8 @@
   
   
   
-  "搜索url":"https://zjuys.com/index.php/vod/search/page/{catePg}/wd/{wd}.html",
+  "搜索url":"https://zjuys.com/vod/search/{wd}",
   "搜索模式": "1",
-  "搜索数组": "class=\"col-lg-5&&class=\"myui-vodlist__detail\">",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索副标题": "class=\"pic-text text-right\">&&</span>",
 
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
