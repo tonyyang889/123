@@ -1,7 +1,7 @@
 {
 "spider":"./app/ysj.bmp",
 "wallpaper":"https://xn--spsx60cgim8pd.xxooo.cf/",
-"lives":[{"name":"live","type":0,"url":"https://gitlab.com/box_test/CR_Test/-/raw/main/IPTV.json","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"http://diyp2.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://pastebin.com/raw/JQHnrsYr","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"http://diyp2.112114.xyz/logo/{name}.png"}],
 "sites":[
 
 //sp
@@ -13,19 +13,17 @@
 //{"name":"木星┃多线","key":"木星","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733322769757/fan.txt","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 {"name":"不能播放请更换成HK1 RBOX K8机顶盒┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"金牌┃秒播","jar": "./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"name":"GZ影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
 //{"name": "旺旺┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_joystv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wwys.json"},
 //{"name": "追剧┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
 //{"name": "白相┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name": "稀饭┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xfys解码","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 {"name": "糯米┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 {"name": "饺子┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_jztv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饺子影视.json"},
-//{"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name": "LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //{"name":"七新电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
 {"name":"七新电影┃(XYQH)","jar": "./app/xiangl0718.bmp","key": "csp_XYQHiker_qxdyy","playerType": 2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影XYQH.json"},
-//{"name":"快看影视","jar":"./app/fan240306.bmp","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "音乐专区┃music","jar":"./app/mv.bmp","key": "MTV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./json/mv.json"},
-{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
 {"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","playerType":1,"type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name":"低端┃直连","jar":"./app/fan.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 
