@@ -19,7 +19,7 @@
 //{"name": "瓜子影视┃秒播","key": "csp_瓜子","api": "csp_Gz360","jar": "https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
 //{"name": "综艺┃综合","jar":"./app/xBPQ0808.bmp","key":"10hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/综艺.json"},
 //{"name":"闪雷影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_sldyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/闪雷电影.json"},
-
+{"name": "萌米┃秒播","jar":"./app/fan.bmp","key": "萌米","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"name": "骚火┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name": "糯米┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
