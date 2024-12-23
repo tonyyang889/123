@@ -9,10 +9,10 @@
   "倒序": "否",
   
 //"二次截取": "bannerData*[&&]}}",
-  "数组": "class=\"myui-vodbox-content\">&&class=\"info-roles\">",
+  "数组": "class=\"myui-vodbox-content\">&&class=\"card-info\">",
   "图片": "src=\"&&\"",
   "标题": "class=\"title\">&&</div>",
-  "副标题": "class=\"score\">&&</div>",
+  "副标题": "class=\"right\">&&</div>",
   "链接": "href=\"&&\"",
 //"图片代理": "1",
   "分类url": "https://www.gzvod.cc/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;au0",
