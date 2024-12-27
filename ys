@@ -47,7 +47,6 @@
 //{"name":"瓜子影视┃秒播","key":"csp_瓜子","api":"csp_Gz360","jar":"https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0},
 //{"name":"综艺┃综合","key":"10hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/综艺.json"},
 //{"name":"闪雷影视┃(xBPQ)","key":"csp_sldyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/闪雷电影.json"},
-//{"name":"旺旺┃(xBPQ)","key":"csp_jztv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wwys.json"},
 //{"name":"241221未修厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com"},
 //{"name":"LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/LIBVIO.json"},
 
