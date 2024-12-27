@@ -3,7 +3,8 @@
   "站名": "饺子tv",
   "主页url": "https://www.jiaozi.me",
   //https://zhuiying.tv/-https://www.hdmoli.pro/-https://molicp.com/
-  "播放请求头": "电脑",
+  "请求头": "User-Agent$Mozilla/5.0(Windows NT 10.0；； Win64；； x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36#Referer$https://www.jiaozi.me",
+  //"播放请求头": "电脑",
   "热门推荐": "40",
   
   "数组": "class=\"myui-vodlist__box\">&&</a>",
