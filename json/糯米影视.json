@@ -2,7 +2,7 @@
 "作者":"YYH",
 "站名":"糯米影视",
 "主页url": "http://www.wwgz.cn",
-//https://t.me/+sInhaZaNUl9iYjI1-https://m.wwgz.cn
+//https://t.me/+sInhaZaNUl9iYjI1-https://www.wwgz.me-https://m.wwgz.cn
 "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
 
 
@@ -31,7 +31,7 @@
 "搜索链接": "href=\"&&\"",
 
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$26",
-"分类url": "http://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
+"分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html",
 
 "筛选":{
 "1":[
