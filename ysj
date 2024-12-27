@@ -32,7 +32,6 @@
 //{"name": "瓜子┃秒播","key": "csp_瓜子","api": "csp_Gz360","jar": "https://gitee.com/senno/tvbox/raw/master/jar/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
 //{"name":"雷电┃App","jar":"./app/qj.bmp","key":"雷电","type":3,"api":"csp_Slys","playerType":1,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
 //{"name":"木星┃多线","key":"木星","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733322769757/fan.txt","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-//{"name": "旺旺┃(xBPQ)","key":"csp_joystv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wwys.json"},
 //{"name": "追剧┃(xBPQ)","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
 //{"name": "白相┃(xBPQ)","key":"csp_bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 //{"name":"七新电影┃(xBPQ)","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
