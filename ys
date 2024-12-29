@@ -13,7 +13,7 @@
 {"name":"热播┃app","key":"热播弹幕","jar":"./app/dm.bmp","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 //以上瓜子天天热播来源于https://github.com/13415129277/wj134/blob/main/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3
 {"name":"GZ影视┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
-{"name":"萌米┃秒播","jar":"./app/fan.bmp","key":"萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+//{"name":"萌米┃秒播","jar":"./app/fan.bmp","key":"萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"name":"骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
