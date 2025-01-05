@@ -8,7 +8,6 @@
 //sp
 {"name":"金牌┃秒播","jar":"./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"name":"瓜子┃APP","key":"瓜子","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"http://kxrj.site:55/lib/drpy_libs/drpy2.min.js","ext":"http://kxrj.site:55/lib/js/瓜子.js"},
 {"name":"天天┃app","key":"天天弹幕","type":3,"api":"csp_TianTian","jar":"./app/dm.bmp","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"name":"热播┃app","key":"热播弹幕","jar":"./app/dm.bmp","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 //以上瓜子天天热播来源于https://github.com/13415129277/wj134/blob/main/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3
