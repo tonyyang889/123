@@ -8,13 +8,13 @@
   
   "副标题": "class=\"module-item-note\">&&</div>",
   
-  "分类url": "https://xifanys.com/yingpianshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+  "分类url": "https://xifanys.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
   "分类": "电影&连续剧&综艺&动漫&短剧",
   "分类值": "dianying&lianxuju&zongyi&dongman&duanju",
   
   
   
-  "搜索url":"https://xifanys.com/yingpiansearch/-------------.html?wd={wd}",
+  "搜索url":"https://xifanys.com/vod/search.html?wd={wd}",
   "搜索模式": "1",
  
   //"影片年代": "年份：&&</p>",
