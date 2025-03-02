@@ -1,7 +1,7 @@
 {
   "作者": "YYH",
   "站名": "追剧tv",
-  "主页url": "https://zjuys.com",
+  "主页url": "https://www.hellorlgzf7sn.com",
   //https://zhuiying.tv/
   "播放请求头": "电脑",
   "热门推荐": "40",
@@ -9,24 +9,24 @@
   "图片代理": "1",
 
   "数组": "class=\"content-card\">&&class=\"role\">",
-  "图片": "https://obs.gduamoe.com/upload/site_logo/20240624-1/9fe234d873548e292e6904d1afe435bb.png",
+  "图片": "https://www.hellorlgzf7sn.com/upload/site_logo/20240624-1/9fe234d873548e292e6904d1afe435bb.png",
   "标题": "class=\"title\"><span>&&</span>",
   "链接": "href=\"&&\"",
   "副标题": "class=\"tag\">&&</div>",
   
-  "分类url": "https://zjuys.com/vod/show/id//{cateId}/class/{class}/area/{area}/year/{year}/page/{catePg}",
+  "分类url": "https://www.hellorlgzf7sn.com/vod/show/id//{cateId}/class/{class}/area/{area}/year/{year}/page/{catePg}",
   "分类": "电影&连续剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
   
   
-  "搜索url":"https://zjuys.com/vod/search/{wd}",
+  "搜索url":"https://www.hellorlgzf7sn.com/vod/search/{wd}",
   "搜索模式": "1",
 
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "搜索后缀":"",
-  "搜索链接前缀": "https://zjuys.com",
+  "搜索链接前缀": "https://www.hellorlgzf7sn.com",
  
   //"影片年代": "年份：&&</p>",
   //"影片地区": "地区：&&<span",
@@ -42,7 +42,7 @@
   "播放列表": "<a&&/a>",
   "播放标题": ">&&<",
   "播放链接": "href=\"&&\"",
-  "播放链接前缀": "https://zjuys.com",
+  "播放链接前缀": "https://www.hellorlgzf7sn.com",
   "播放链接后缀": "",
   
 "免嗅":"1",
