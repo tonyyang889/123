@@ -13,13 +13,13 @@
   "图片": "https://www.ksnnhbj.com/_next/image?url=+\"vodPic\":\"&&\"+&w=828&q=75",
   "标题": "vodName\":\"&&\"",
   "副标题": "vodRemarks\":\"&&\"",
-  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+  "链接": "https://www.hellorlgzf7sn.com/detail/+vodId\":&&,",
 
-  "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/type/{cateIdl}/class/{class}/year/{year}/area/{area}/page/{catePg}",
+  "分类url": "https://www.hellorlgzf7sn.com/vod/show/id/{cateId}/type/{cateIdl}/class/{class}/year/{year}/area/{area}/page/{catePg}",
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+  "搜索url": "https://www.hellorlgzf7sn.com/vod/search/{wd}",
  
   //"影片年代": "年份：&&</p>",
   //"影片地区": "地区：&&<span",
@@ -33,7 +33,7 @@
    "播放数组": "\"params\":&&]",
   "播放列表": "{&&}",
   "播放标题": "name\":\"&&\"",
-  "播放链接": "https://www.hkybqufgh.com/vod/play/+\"vodId\":&&,+/sid/+\"nid\":&&,",
+  "播放链接": "https://www.hellorlgzf7sn.com/vod/play/+\"vodId\":&&,+/sid/+\"nid\":&&,",
   
 "免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
