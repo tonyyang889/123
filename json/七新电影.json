@@ -34,9 +34,9 @@
   "播放数组": "class=\"stui-content__playlist playlink&&/ul>",
   "播放列表": "<li&&</li>",
   "线路标题": "target=\"_self\">&&</a",
-  "播放链接": "href=\"&&\"",
-  "播放链接前缀": "http://www.7xdy.com",
-  "播放链接后缀": "",
+  "跳转解析": "默认$https://jx.vodplayer.cn/?url=",
+  "跳转播放链接": "解析+urlDecode(Base64(now=base64decode(\"&&\"))",
+  //解析来源于GZ影视
   
 "免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
@@ -133,4 +133,3 @@
   {"n":"评分","v":"score"}]}]
  }
 } 
-
