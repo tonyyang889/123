@@ -6,7 +6,7 @@
 "sites":[
 
 //sp
-{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv12.json"},
+{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
 {"name":"金牌┃秒播","jar":"./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"白白┃秒播","jar":"./app/fan.bmp","key":"白白","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"天天┃app","key":"天天弹幕","type":3,"api":"csp_TianTian","jar":"./app/dm.bmp","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
