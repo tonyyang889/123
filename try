@@ -44,6 +44,10 @@
 //{"name":"蛋蛋剧┃(xBPQ)","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 //{"name": "*看美剧┃(xBPQ)","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
 {"name":"爱壹帆┃(xBPQ)","key":"csp_爱壹帆bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱壹帆.json"},
+{"name":"奇库┃(xBPQ)","key":"csp_奇库bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇库影视.json"},
+
+
+
 //磁力
 
 {"name":"新飘花电影┃(xBPQ)","key":"csp_xphdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/新飘花bt.json"},
