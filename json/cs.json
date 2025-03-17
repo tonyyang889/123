@@ -1,7 +1,8 @@
 {
   "作者": "YYH",
-  "站名": "爱壹帆电影",
-  "主页url": "https://qkys8.com",
+  "站名": "皮皮蛋",
+  //
+  "主页url": "https://www.ppdys.vip",
   "播放请求头": "手机",
   "热门推荐": "40",
   "倒序": "否",
@@ -13,11 +14,11 @@
   "副标题": "class=\"module-item-note\">&&</div>",
   //"链接": "href=\"&&\"",
   
-  "分类url": "https://qkys8.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+  "分类url": "https://www.ppdys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "搜索url": "https://qkys8.com/vodsearch/{wd}-------------.html",
+  "搜索url": "https://www.ppdys.vip/vodsearch/{wd}-------------.html",
   "搜索模式": "1",
   
   //"影片年代": "年份：&&</p>",
