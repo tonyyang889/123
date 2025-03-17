@@ -22,6 +22,8 @@
 {"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
 {"name":"爱壹帆┃(xBPQ)","key":"csp_爱壹帆bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱壹帆.json"},
+{"name":"奇库┃(xBPQ)","key":"csp_奇库bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇库影视.json"},
+
 //XYQH
 {"name":"迅雷┃(xBPQ)","key":"csp_xlxz01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 //{"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
