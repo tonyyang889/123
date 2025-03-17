@@ -6,8 +6,6 @@
 "sites":[
 
 //sp
-{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
-{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
 {"name":"金牌┃秒播","jar": "./app/fan.bmp","key":"jinpai","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"小苹果┃秒播","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"GZ影视┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
@@ -36,6 +34,8 @@
 //{"name":"七新电影┃(xBPQ)","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
 //{"name":"影视┃(xBPQ)","key":"csp_sldyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/闪雷电影.json"},
 //{"name": "LIBVIO┃(xBPQ)","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
+{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
 
 
 
