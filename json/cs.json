@@ -2,15 +2,15 @@
 "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
 "播放请求头": "User-Agent$Lvaf/58.12.100",
 "热门推荐": "40",
-//"主页url": "http://120.224.7.90:808/www/",
-"网页编码格式": "gb2312",
+"主页url": "https://www.yingshidaquantv.com/",
+//"网页编码格式": "gb2312",
 
-"数组": "<li style=&&</strong>",
-"图片": "src=\"&&\"[替换:..>>空]",
+"数组": "class=\"col-xs-4 col-md-3 col-lg&&</li>",
+"图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
-"链接": "href=\"&&\"",
-//"链接前辍": "http://120.224.7.90:808/www/",
-"副标题": "\">&&</span>",
+"链接": "class=\"pic*href=\"&&\"",
+//"链接前辍": "https://www.yingshidaquantv.com/",
+"副标题": "class=\"item-status text-overflow\">&&</p>",
   
 "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 
@@ -27,14 +27,14 @@
 //"播放链接":"href=\"&&\"",
 
 "搜索模式": "1",
-"搜索url": "http://120.224.7.90:808/www/index.asp/index.php/vod/search/wd/{wd}.html",
+"搜索url": "https://www.yingshidaquantv.com//index.asp/index.php/vod/search/wd/{wd}.html",
 "搜索数组": "class=\"module-item-pic\">&&class=\"loading\">",
 "搜索图片": "data-src=\"&&\"",
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
 "搜索链接前缀": "http://120.224.7.90:808/www/index.asp",
 
-"分类": "电影$5000#电视剧$10#动漫$6#综艺$8",
-"分类url": "http://120.224.7.90:808/www/List.asp?classid={cateId}&searchword=&page={catePg}",
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+"分类url": "https://www.yingshidaquantv.com/ysdqshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "筛选":""
 } 
