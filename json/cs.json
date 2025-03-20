@@ -11,7 +11,7 @@
   "数组": "class=\"public-list-exp\"&&class=\"public-list-button\">",
   "图片": "data-src=\"&&\"",
   "标题": "title=\"&&\"",
-  "副标题": "class=\"public-list-subtitle cor5 hide ft2\">&&</div>",
+  //"副标题": "class=\"public-list-subtitle cor5 hide ft2\">&&</div>",
   //"链接": "href=\"&&\"",
   
   "分类url": "https://lreeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
