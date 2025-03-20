@@ -21,7 +21,7 @@
 {"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_ZxzjGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name":"低端┃直连","jar":"./app/fan.bmp","key":"DiDuan","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
-{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
+//{"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
 //{"name":"同下奇库爱壹帆┃(xBPQ)","key":"csp_爱壹帆bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱壹帆.json"},
 //{"name":"奇库┃(xBPQ)","key":"csp_奇库bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇库影视.json"},
 {"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
