@@ -36,9 +36,9 @@
   
   "播放数组": "class=\"playlist macplus-pannel_hd\">&&</ul>",
   "播放列表": "<li&&</li>",
-  "跳转解析": "默认$https://bbb.ppdys.vip/youhuanle1/?url=",
+  //"跳转解析": "默认$https://bbb.ppdys.vip/youhuanle1/?url=",
   //解析来源于lreeok
-  "跳转播放链接": "解析+\"vod_class\"*url\":\"&&\"",
+  "跳转播放链接": "\"vod_class\"*url\":\"&&\"",
 
   
 "免嗅":"0",
