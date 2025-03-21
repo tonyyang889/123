@@ -4,6 +4,19 @@
 
 "sites":[
 //{"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cs.json"},
+{"key":"影视更新4b","name":"影视内测版fongmi","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
+        {"name":"TV版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版(4.1-4.4)","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"}
+        ]
+    },
+
 {"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cs.json"},
 {"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name":"酷看┃秒播","jar":"./app/fan.bmp","key":"酷看","type":3,"api":"csp_Kkys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
