@@ -19,7 +19,10 @@
 {"name": "音乐专区┃music","jar":"./app/mv.bmp","key": "MTV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./json/mv.json"},
 {"name": "追剧┃(xBPQ)","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
 {"name": "稀饭┃(xBPQ)","key":"csp_xfys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
-{"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+
+//https://9877.kstore.space/AnotherD/api.json小苹果来源
+{"name": "小苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
+//{"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"name": "荐片┃综合","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 //{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 //{"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_ZxzjGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
