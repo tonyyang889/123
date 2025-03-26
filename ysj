@@ -22,7 +22,7 @@
 //xBPQ
 {"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
 {"name":"皮皮蛋┃(xBPQ)","key":"csp_皮皮蛋","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/皮皮蛋.json"},
-{"name": "奇优┃综合","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
+{"name": "奇优┃(xBPQ)","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
 {"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name":"七年电影┃(xBPQ)","key":"csp_七年电影","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"GZ影视┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
