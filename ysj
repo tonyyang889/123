@@ -6,25 +6,7 @@
 "sites":[
 
 
-//xBPQ
-//{"name": "骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
-{"name": "奇优┃综合","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
-//{"name":"蛋蛋剧┃(xBPQ)","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
-//{"name": "北川┃(xBPQ)","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
-//{"name": "迅雷┃(xBPQ)","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
-//{"name":"新6V┃磁力","key":"新6V","jar":"./app/fan.bmp","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
-//{"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
-//{"name":"缘觉影视┃(XYQH)","jar": "./app/xiangl0718.bmp","key": "csp_XYQHiker_yjys","playerType": 2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yjys.json"},
-//{"name": "追剧┃(xBPQ)","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
-//{"name":"七新电影┃(xBPQ)","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
-//{"name": "LIBVIO┃(xBPQ)","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
-{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
-//{"name":"TV影视┃(xBPQ)","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
-{"name":"七年电影┃(xBPQ)","key":"csp_七年电影","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
-//{"name":"爱壹帆┃(xBPQ)","key":"csp_爱壹帆bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱壹帆.json"},
-//{"name":"同下奇库┃(xBPQ)","key":"csp_奇库bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇库影视.json"},
-{"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
-{"name":"皮皮蛋┃(xBPQ)","key":"csp_皮皮蛋","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/皮皮蛋.json"},
+
 
 //XYQH
 {"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
