@@ -12,7 +12,7 @@
 {"name":"热播┃(xBPQ)","key":"csp_热播","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json"},
 //{"name":"热播┃app","key":"热播弹幕","jar":"./app/dm.bmp","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 //以上瓜子天天热播来源于https://github.com/13415129277/wj134/blob/main/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3
-{"name":"GZ影视┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
+//{"name":"GZ影视同热播┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
 {"name":"纯享┃秒播","key":"WexF4kvmGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742218962852/wex.txt","api":"csp_WexF4kvmGuard","type":3,"searchable":1,"filterable":1,"changeable":1},
 {"name":"骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 
