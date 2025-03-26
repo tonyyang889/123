@@ -12,21 +12,24 @@
 {"name":"厂长┃直连","jar":"./app/qj.bmp","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
 
 //https://9877.kstore.space/AnotherD/api.json小苹果
-{"name": "小苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
+{"name": "苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 //{"name":"小苹果┃APP","jar":"./app/fan2.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"name": "音乐┃music","jar":"./app/mv.bmp","key": "MTV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./json/mv.json"},
+//{"name":"在线┃外剧","jar":"./app/fan2.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+{"name":"低端┃直连","jar":"./app/fan2.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"name": "荐片┃磁力","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
+
+//xBPQ
+{"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
+{"name":"皮皮蛋┃(xBPQ)","key":"csp_皮皮蛋","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/皮皮蛋.json"},
+{"name": "奇优┃综合","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
+{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+{"name":"七年电影┃(xBPQ)","key":"csp_七年电影","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"GZ影视┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
 {"name": "稀饭┃(xBPQ)","key":"csp_xfys解码","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 {"name": "糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 //{"name": "饺子┃(xBPQ)","key":"csp_jztv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饺子影视.json"},
-//{"name":"七新电影┃(XYQH)","jar": "./app/xiangl0718.bmp","key": "csp_XYQHiker_qxdyy","playerType": 2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影XYQH.json"},
-{"name": "音乐专区┃music","jar":"./app/mv.bmp","key": "MTV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./json/mv.json"},
-//{"name":"在线┃外剧","jar":"./app/fan2.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-{"name":"低端┃直连","jar":"./app/fan2.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"name": "荐片","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
-
-//xBPQ
 //{"name": "骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
-{"name": "奇优┃综合","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
 //{"name":"蛋蛋剧┃(xBPQ)","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 //{"name": "北川┃(xBPQ)","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 //{"name": "迅雷┃(xBPQ)","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
@@ -36,16 +39,14 @@
 //{"name": "追剧┃(xBPQ)","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
 //{"name":"七新电影┃(xBPQ)","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
 //{"name": "LIBVIO┃(xBPQ)","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
-{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 //{"name":"TV影视┃(xBPQ)","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
-{"name":"七年电影┃(xBPQ)","key":"csp_七年电影","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 //{"name":"爱壹帆┃(xBPQ)","key":"csp_爱壹帆bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱壹帆.json"},
 //{"name":"同下奇库┃(xBPQ)","key":"csp_奇库bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇库影视.json"},
-{"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
-{"name":"皮皮蛋┃(xBPQ)","key":"csp_皮皮蛋","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/皮皮蛋.json"},
 
 //XYQH
 {"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
+//{"name":"七新电影┃(XYQH)","jar": "./app/xiangl0718.bmp","key": "csp_XYQHiker_qxdyy","playerType": 2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影XYQH.json"},
+
 {"name": "推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
 {"key":"wx","name":"影视界需更新-否则","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"fan","name":"后期用不了-下载地址↓","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
