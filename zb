@@ -4,8 +4,6 @@
 
 "sites":[
 //{"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cs.json"},
-{"key":"影视更新4b","name":"影视内测版fongmi","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"./app/custom_spider.bmp","ext":[{"name":"影视界更新1","url":"https://124-238-119-17.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-57/4c9e9188/1815237981-0/4c9e91882e3fc8edc12b8b9d13a35839/c-m74?v=5&t=1742620297&s=1742620297f0162cb318c6020645d0cb6e354239f1&r=R85ZPG&bzc=2&bzs=313831353233373938313a333037383530373a32313031323438363a31383135323337393831&filename=TVBox0321.apk&x-mf-biz-cid=af8eb2c5-5e7a-49dd-8084-4f4f7074ccca-5baabb&auto_redirect=0&cache_type=1&xmfcid=976b2291-b755-41e0-98d2-5238b0c4f895-1-50111d3b1","icon":"https://gitee.com/kaisertv/pro/raw/master/app/icon-2.png"},
-{"name":"影视界更新2","url":"https://124-238-119-17.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-57/4c9e9188/1815237981-0/4c9e91882e3fc8edc12b8b9d13a35839/c-m74?v=5&t=1742620297&s=1742620297f0162cb318c6020645d0cb6e354239f1&r=R85ZPG&bzc=2&bzs=313831353233373938313a333037383530373a32313031323438363a31383135323337393831&filename=TVBox0321.apk&x-mf-biz-cid=af8eb2c5-5e7a-49dd-8084-4f4f7074ccca-5baabb&auto_redirect=0&cache_type=1&xmfcid=976b2291-b755-41e0-98d2-5238b0c4f895-1-50111d3b1","icon":"https://gitee.com/kaisertv/pro/raw/master/app/icon-2.png"}]},
 
 {"name": "测试┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cs.json"},
 {"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
