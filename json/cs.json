@@ -1,45 +1,9 @@
 {
-  "作者": "YYH",
-  "站名": "七年电影",
-  //
-  "主页url": "https://honghuli.com",
-  "播放请求头": "电脑",
-  "热门推荐": "40",
-  "倒序": "否",
-  "图片代理": "0",
 
-  "数组": "class=\"module-item-cover\">&&class=\"icon-play\">",
-  "图片": "data-original=\"&&\"",
-  "标题": "alt=\"&&\"",
-  "副标题": "class=\"module-item-note\">&&</div>",
-  "链接": "href=\"&&\"",
-  
   "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
   "分类": "电视剧&电影&综艺&动漫",
   "分类值": "2&1&3&4",
-  
-  "搜索url": "https://honghuli.com/sou/{wd}-------------.html",
-  "搜索模式": "1",
-  
-  //"影片年代": "年份：&&</p>",
-  //"影片地区": "地区：&&<span",
-  "影片类型": "影视界",
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "简介": "请勿相信视频中出现的广告:+style=\"line-height: 20px;\">&&</p>",
-  
-  //"线路二次截取": "class='title'&&/span>", 
-  "线路数组": "class=\"module-tab-item tab-item\"&&/div>[替换:高清高速>>影视界]",
-  "线路标题": "<span>&&</small>+集[替换:</span><small>>>空]",
-  
-  "播放数组": "class=\"module-play-list\">&&</div>",
-  "播放列表": "<a&&/a>",
-  "播放标题":"title=\"&&\"",
-  "播放链接":"href=\"&&\"",
-  //"跳转解析": "默认$https://nmcdzs.fan/?url=",
-  "跳转播放链接": "urlDecode(Base64(vod_class\"*url\":\"&&\"))",
-  "调试":"1",
-  
+
   "免嗅":"1",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
