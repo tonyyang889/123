@@ -7,7 +7,7 @@
 
 //sp
 
-//{"name":"金牌┃秒播","jar":"./app/fan.bmp","key":"jinpai","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"name":"金牌┃秒播","jar":"./app/fan.bmp","key":"jinpai","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"纯享┃秒播","key":"WexF4kvmGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742218962852/wex.txt","api":"csp_WexF4kvmGuard","type":3,"searchable":1,"filterable":1,"changeable":1},
 //https://9877.kstore.space/AnotherD/api.json小苹果来源
 {"name": "苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
