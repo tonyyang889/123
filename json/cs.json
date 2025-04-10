@@ -1,14 +1,12 @@
 {
   "作者": "YYH",
-  "站名": "七年电影",
+  "站名": "红狐狸电影",
   //
   "主页url": "https://honghuli.com",
   "播放请求头": "电脑",
   "热门推荐": "40",
   "倒序": "否",
   "图片代理": "0",
-
-  "副标题": "class=\"module-item-note\">&&</div>",
   
   "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
   "分类": "电视剧&电影&综艺&动漫",
@@ -31,8 +29,8 @@
   "播放列表": "<a&&/a>",
   "播放标题":"title=\"&&\"",
   "播放链接":"href=\"&&\"",
-  //"跳转解析": "默认$https://nmcdzs.fan/?url=",
-  "跳转播放链接": "urlDecode(Base64(vod_class\"*url\":\"&&\"))",
+  "跳转解析": "默认$https://jx.2s0.cn/player/analysis.php?v=",
+  "跳转播放链接": "解析+urlDecode(Base64(vod_class\"*url\":\"&&\"))",
   "调试":"1",
   
   "免嗅":"1",
