@@ -1,7 +1,7 @@
 {
   "作者": "YYH",
   "站名": "红狐狸电影",
-  //
+
   "主页url": "https://honghuli.com",
   "播放请求头": "电脑",
   "热门推荐": "40",
@@ -23,11 +23,11 @@
   "简介": "请勿相信视频中出现的广告:+class=\"module-info-introduction&&</p>",
   
   "线路数组": "class=\"module-tab-item tab-item\"&&/div>",
-  "线路标题": "<span>&&</small>+集[替换:</span><small>>>空]",
+  "线路标题": "<span>&&</small>",
   
-  "播放数组": "class=\"module-play-list\">&&</div>",
+  "播放数组": "class=\"module-play-list-content&&</div>",
   "播放列表": "<a&&/a>",
-  "播放标题":"title=\"&&\"",
+  "播放标题":"<span>&&</span>",
   "播放链接":"href=\"&&\"",
   //"跳转解析": "默认$https://jx.2s0.cn/player/analysis.php?v=",
   "跳转播放链接": "urlDecode(Base64(vod_class\"*url\":\"&&\"))",
