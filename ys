@@ -67,7 +67,7 @@
 "parses":[
 {"name":"并发","type":3,"url":"Demo"},
 {"name":"聚合","type":3,"url":"Web"},
-{"name":"爱酷","type":1,"url":"https://bbb.ppdys.vip/youhuanle1/?url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"]}},
+//{"name":"爱酷","type":1,"url":"https://bbb.ppdys.vip/youhuanle1/?url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"]}},
 //解析来源于TV121,蛋蛋
 {"name":"腾视","type":0,"url":"https://bbb.ppdys.vip/youhuanle1/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}}
 
