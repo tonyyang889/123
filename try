@@ -5,6 +5,7 @@
 "sites":[
 
 //sp
+{"name":"腾讯视频","key":"腾讯视频1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXDM.js"},
 {"name":"七年电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_七年电影","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"在线┃直连","jar":"./app/qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="},
 {"name":"厂长┃直连","jar":"./app/qj.bmp","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
@@ -128,8 +129,14 @@
 "parses":[
 {"name":"并发","type":3,"url":"Demo"},
 {"name":"聚合","type":3,"url":"Web"},
-//{"name":"爱酷","type":1,"url":"https://api.json.icu/api/?key=9a2e486d143f6e89f7ad980c6e4ce609&url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","奇艺"]}},
-{"name":"亮亮🌾","type":1,"url":"http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["seven"],"header":{"User-Agent":"Lavf/58.12.100"}}}
+{"name":"爱酷","type":0,"url":"https://www.yemu.xyz/?url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"]}},
+//解析来源于https://www.nuliya.top/vip/
+{"name":"腾视0","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"腾视1","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"腾视2","type":0,"url":"https://jx.xmflv.cc/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+//解析来源于TV121,蛋蛋
+{"name":"腾视3","type":0,"url":"https://bbb.ppdys.vip/youhuanle1/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}}
+
 
 
 ],
