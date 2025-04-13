@@ -10,11 +10,11 @@
   
   "热门推荐": "40",
   "倒序": "否",
-  "图片代理": "0",
-  "调试":"1",
+ 
+  //"调试":"1",
 
   "数组": "{\"vo&&}",
-  "图片": "vodPic\":\"&&\"",
+  "图片": "vodClass*vodPic\":\"&&\"",
   "标题": "\"vodName\":\"&&\"",
   "副标题": "\"vodRemarks\":\"&&\"",
   "链接": "dId\":&&,",  
@@ -26,11 +26,12 @@
   
   "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
   //"搜索模式": "0",
-  "搜索二次截取": "searchParams*\"data\":{\"v&&]}}",
+  "搜索二次截取": "\"list\":v&&}}}",
   "搜索数组": "{&&}",
-  "搜索图片": "vodClass*vodPic\":\"&&\",",
+  "搜索图片": "vodClass*vodPic\":\"&&\"",
   "搜索标题": "\"vodName\":\"&&\"",
-  "搜索链接": "https://www.hkybqufgh.com/vod/play/+odId\":&&,+/sid/+\"nid\":&&,",
+  "搜索链接": "\"vodId\":&&,",
+  "搜索链接前缀": "https://www.hkybqufgh.com/detail/",
   "搜索副标题": "\"vodRemarks\":\"&&\"",
  
   
@@ -47,10 +48,9 @@
   "播放列表": "{&&}",
   "播放标题": "name\":\"&&\"",
   "播放链接": "\"nid\":&&,",
-  "播放链接前缀": "https://www.hkybqufgh.com/vod/play/+odId\":&&,+/sid/",
-
+  "播放链接前缀": "https://www.hkybqufgh.com/vod/play/+odId\":&&,+/1/",
   
-"免嗅":"0",
+"免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
 "筛选":{
