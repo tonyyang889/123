@@ -7,17 +7,18 @@
   "播放请求头": "PC",
   "请求头": "PC",
   //"UA": "User-Agent$Mozilla/5.0 (Windows NT 10.0；； Win64；； x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-  
+  "图片代理": "0",
   "热门推荐": "40",
   "倒序": "否",
  
   //"调试":"1",
 
-  "数组": "{\"vo&&}",
-  "图片": "vodClass*vodPic\":\"&&\"",
+  "二次截取": "\"list\":\\[&&\\]},",
+  "数组": "{&&}",
+  "图片": "\"vodPic\":\"&&\"",
   "标题": "\"vodName\":\"&&\"",
   "副标题": "\"vodRemarks\":\"&&\"",
-  "链接": "dId\":&&,",  
+  "链接": "\"vodId\":&&,",  
   "链接前缀": "https://www.hkybqufgh.com/detail/",
 
   "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/area/{area}/year/{year}/page/{catePg}",
