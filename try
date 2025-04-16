@@ -33,6 +33,7 @@
 
 //xBPQ
 //下面这个直接跳的解析
+{"name": "人人┃(xBPQ)","key":"csp_rrys001","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
 {"name":"HHL影院┃(xBPQ)","key":"csp_红狐狸","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/红狐狸电影.json"},
 {"name": "骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name": "VOFLIX┃(xBPQ)","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
