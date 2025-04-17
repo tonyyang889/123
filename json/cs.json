@@ -16,7 +16,7 @@
   "搜索模式": "1",
   "搜索二次截取": "",
   "搜索数组": "class=\"lazy lazy1 gen-movie-img mask-1&&class=\"thumb-else cor5 hide\">",
-  "搜索图片": "src=\"&&\"",
+  "搜索图片": "data-src=\"&&\"",
   "搜索标题": "alt=\"&&封面图",
   "搜索链接": "target=\"_self*href=\"&&\"",
   "搜索后缀":"",
