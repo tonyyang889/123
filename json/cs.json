@@ -1,6 +1,6 @@
 {
   "作者": "YYH",
-  "站名": "人人影视",
+  "站名": "路飞影视",
   //https://人人影视.com
   "主页url": "https://lufys.com",
   "播放请求头": "电脑",
@@ -12,9 +12,16 @@
   "分类": "电视剧&电影&综艺&动漫&短剧",
   "分类值": "dianshi&dianying&zongyi&dongman&ziyuan",
   
-  "搜索url": "https://lufys.com/search/wd/{wd}.html",
+  "搜索url": "https://lufys.com/search.html?wd={wd}",
   "搜索模式": "1",
-  
+  "搜索二次截取": "",
+  "搜索数组": "class=\"lazy lazy1 gen-movie-img mask-1&&class=\"thumb-else cor5 hide\">",
+  "搜索图片": "src=\"&&\"",
+  "搜索标题": "alt=\"&&封面图",
+  "搜索链接": "target=\"_self*href=\"&&\"",
+  "搜索后缀":"",
+  "搜索链接前缀": "",
+
   //"影片年代": "年份：&&</p>",
   //"影片地区": "地区：&&<span",
   "影片类型": "影视界",
