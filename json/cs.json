@@ -12,7 +12,7 @@
   "分类": "电视剧&电影&综艺&动漫&短剧",
   "分类值": "dianshi&dianying&zongyi&dongman&ziyuan",
   
-  "搜索url": "https://lufys.com/search/page/{catePg}/wd/{wd}.html[firstPage=https://lufys.com/search/wd/{wd}.html]",
+  "搜索url": "https://lufys.com/search/wd/{wd}.html",
   "搜索模式": "1",
   
   //"影片年代": "年份：&&</p>",
