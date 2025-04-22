@@ -6,6 +6,7 @@
 "sites":[
 
 //sp
+{"name":"海纳┃(xBPQ)","key":"csp_HLys02","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/海纳影视.json"},
 {"name":"糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 {"name":"金牌影视┃(xBPQ)","key":"csp_jpys1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/金牌影视.json"},
 {"name":"腾讯┃视频","key":"腾讯视频1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
