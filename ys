@@ -32,6 +32,7 @@
 {"name":"骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name":"糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 {"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+{"name":"海纳┃(xBPQ)","key":"csp_HLys02","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/海纳影视.json"},
 {"name":"搜索┃(xBPQ)","key":"csp_小红","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小红电影.json"},
 //{"name":"搜索1┃(xBPQ)","key":"csp_路飞","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/路飞.json"},
 //{"name":"lreeok┃(xBPQ)","key":"csp_lreeok","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lreeok.json"},
