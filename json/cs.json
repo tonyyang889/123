@@ -30,7 +30,7 @@
 "播放标题":"span>&&</span",
 "跳转播放链接": "name=\"player_if*src=\"&&\"",
 //"二次跳转播放链接": "\"url\":\"&&\"",
-//"跳转播放链接前缀": "https://www.ziziys.net/",
+"跳转播放链接前缀": "https://www.ziziys.net",
 
 "调试":"1",
 
