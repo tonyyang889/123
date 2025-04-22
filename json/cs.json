@@ -8,10 +8,7 @@
   "倒序": "否",
   "图片代理": "0",
   
-  "数组": "class=\"hl-item-thumb hl-lazy\"&&</a>",
-  "图片": "data-original=\"&&\"",
-  "标题": "title=\"&&\"",
-  "链接": "href=\"&&\"",
+
   "副标题": "class=\"hl-lc-1 remarks\">&&</span>",
 
   "分类url": "https://www.hainatv.net/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
