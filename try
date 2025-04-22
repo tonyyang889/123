@@ -5,7 +5,7 @@
 "sites":[
 
 //sp
-{"name":"QQ┃APP","key":"qqsp1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
+{"name":"App┃APP","key":"appsp1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
 //{"name":"七年电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_七年电影","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"在线┃直连","jar":"./app/qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="},
 {"name":"厂长┃直连","jar":"./app/qj.bmp","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
