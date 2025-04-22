@@ -82,8 +82,8 @@
 //搜索类
 //{"name":"Alist网盘","jar":"./app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/alistsou.json"},
 //{"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./lib/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"name":"d讯┃APP","key":"f讯sp1","api":"./lib/drpy.min.js","jar":"./app/spider.bmp","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js","type":3,"playerType":2},
+{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"name":"d讯┃APP","key":"f讯sp1","api":"./libs/drpy.min.js","jar":"./app/spider.bmp","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js","type":3,"playerType":2},
 //{"name":"厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 //appysv2
