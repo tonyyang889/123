@@ -29,7 +29,7 @@
 "播放列表":"<a&&</a",
 "播放标题":"span>&&</span",
 "跳转播放链接": "https://www.ziziys.net+id=\"player_if\"*src=\"&&\"",
-"二次跳转播放链接": "vod_class\"*url\":\"&&\"",
+"二次跳转播放链接": "\"url\":\"&&\"",
 //"跳转播放链接前缀": "https://www.ziziys.net/",
 
 "调试":"1",
