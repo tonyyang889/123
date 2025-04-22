@@ -5,10 +5,10 @@
 "sites":[
 
 //sp
-{"name": "金牌｜影视","key": "金牌影视","jar":"./app/spider.bmp","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JPYS.py","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
-//讯讯、金牌来源于https://9877.kstore.space/AnotherD/api.json
+
 //{"name":"七年电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_七年电影","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"讯讯┃APP","key":"讯讯sp1","api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","jar":"./app/0928.bmp","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js","type":3,"playerType":2},
+//讯讯来源于https://9877.kstore.space/AnotherD/api.json
 {"name":"在线┃直连","jar":"./app/qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="},
 {"name":"厂长┃直连","jar":"./app/qj.bmp","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
 
