@@ -5,7 +5,7 @@
 "sites":[
 
 //sp
-
+{"name":"12┃APP","key":"111sp1","api":"./js/drpy2.min.js","jar":"./app/spider.bmp","ext": "./json/TXSP.js","type":3,"playerType":2},
 //{"name":"七年电影┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_七年电影","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七年电影.json"},
 {"name":"讯讯┃APP","key":"讯讯sp1","api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","jar":"./app/0928.bmp","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js","type":3,"playerType":2},
 //讯讯来源于https://9877.kstore.space/AnotherD/api.json
