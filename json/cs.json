@@ -34,6 +34,7 @@
 "二次跳转播放链接": "vod_class\"*url\":\"&&\"",
 //"跳转播放链接前缀": "https://www.ziziys.net/",
 
+"调试":"1",
 
 "搜索url":"https://www.ziziys.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 "搜索模式": "1",
