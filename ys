@@ -13,7 +13,7 @@
 {"name": "零度┃PY","key": "旺旺影视","type": 3,"api": "https://github.moeyy.xyz/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/app/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86APP.py"},
 //{"name": "苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 //https://9877.kstore.space/AnotherD/api.json小苹果来源
-{"name": "苹果┃PY","key": "苹果2","type": 3,"api": "./json/小苹果.py"},
+{"name": "苹果┃PY","key": "苹果2","playerType":2,"type": 3,"api": "./json/小苹果.py"},
 {"name":"音乐┃music","jar":"./app/mv.bmp","key":"MTV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/mv.json"},
 {"name":"荐片┃磁力","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 {"name":"在线┃直连","jar":"./app/qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="},
