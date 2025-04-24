@@ -66,8 +66,8 @@
 
 //搜索类
 //{"name":"阿里┃设置","jar":"./app/alisz.bmp","key":"csp_KungFu404","type":3,"api":"csp_KungFu404","searchable":1,"filterable":1,"changeable":0,"ext":"./alitoken.txt"},
-{"name":"易搜┃4K搜","key":"YiSo","jar":"./app/fan.bmp","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/alitoken.txt+4k|fhd|auto"},
-{"name":"4K8K测试","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fan.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/4K测试.json"},
+{"name":"易搜┃4K搜","key":"YiSo","jar":"./app/fan2.bmp","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/alitoken.txt+4k|fhd|auto"},
+{"name":"4K8K测试","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fan2.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/4K测试.json"},
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
 ],
