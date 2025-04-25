@@ -130,7 +130,11 @@
 "parses":[
 {"name":"并发","type":3,"url":"Demo"},
 {"name":"聚合","type":3,"url":"Web"},
-{"name":"爱酷","type":0,"url":"https://www.yemu.xyz/?url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"]}},
+{"name":"奇艺0","type":0,"url":"http://cp.987654321.icu/jiexi.php?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"奇艺1","type":0,"url":"https://cdn.zyc888.top/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"奇艺2","type":0,"url":"http://www.ckplayer.vip/jiexi/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"奇艺3","type":0,"url":"https://jx.xymp4.cc/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name":"腾视","type":0,"url":"https://www.yemu.xyz/?url=","User-Agent":"Dart/2.18(dart:io)","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"]}},
 //解析来源于https://www.nuliya.top/vip/
 {"name":"腾视0","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
 {"name":"腾视1","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qiyi","爱奇艺","腾讯视频","腾讯","奇艺"],"header":{"User-Agent":"Lavf/58.12.100"}}},
