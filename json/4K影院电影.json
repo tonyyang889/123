@@ -10,7 +10,7 @@
 
 "热门":"电影$20",
 
-"二次截取": "",
+"二次截取": "class=\"archive_post\">&&class=\"pagination\">",
 "数组": "class=\"poster\">&&<div class=\"see\">",
 "图片": "<img src=\"&&\"[替换:\\#038;>>空]",
 "标题": "alt=\"&&\"",
@@ -28,17 +28,11 @@
 "线路标题": "class=\'title\'>&&</span>",
 "线路链接": "data-type=\'&&\'+data-post=\'&&\'+data-post=\'&&\'",
 
-
 "播放数组": "Movie breadcrumb&&</div>",
 "播放列表": "<li&&</li>",
 "播放标题": "itemprop=\"name\">&&</span>[不包含:电影#Home]",
 "播放链接": "href=\"&&\"",
-
-//"跳转播放链接": "id=\'player-option-1\'*data-post=\'&&\'",
-//"跳转播放链接前缀": "https://www.4kvm.org/wp-json/dooplayer/v1/post/",
-//"跳转播放链接后缀": "?type=movie&source=1",
-//"二次跳转播放链接": "embed_url\":\"&&\"",
-
+"跳转播放链接": "https://www.4kvm.org//artplayer?mvsource=0&id=+id='dooplay-ajax-counter' data-postid=\'&&\'+&type=hls",
 
 "免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
