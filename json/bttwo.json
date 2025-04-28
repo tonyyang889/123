@@ -1,24 +1,27 @@
 {
   "作者": "YYH",
   "站名": "BTTWO",
-  "主页url": "https://www.bttwo.net",
-  //https://www.bttwo.vip/
-  "倒序播放": "0",
+  "主页url": "https://bttwo.org",
+  //https://www.bttwo.vip/-https://www.bttwo.me
+"热门推荐": "0",
+"请求头": "电脑",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
 
-  "请求头": "手机",
-  "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "热门推荐": "30",
+"热门":"国产剧$20",
   
-  "副标题": "<span>&&</span>",
+"副标题": "class=\"jidi\"><span>&&</span>",
+
+  "分类": "本月热门&最新电影&国产剧&美剧&日韩剧",
+  "分类值": "hot-month&new-movie&zgjun&meiju&jpsrtv",
   
-  "分类": "影视筛选&电视剧&高分电影&热门下载&本月热门&最新电影&国产剧&美剧&日韩剧",
-  "分类值": "movie_bt&dsj&gf&hot&hot-month&new-movie&zgjun&meiju&jpsrtv",
-  
-  "分类url": "https://www.bttwo.net/{cateId}/page/{catePg}",
+  "分类url": "https://bttwo.org/{cateId}/page/{catePg}",
   
   
   "搜索模式": "1",
-  "搜索url": "https://www.bttwo.net/xssearch?q={wd}",
+  "搜索url": "https://bttwo.org/xssearch?q={wd}",
   "搜索数组": "class=\"thumb lazy\"&&</h3>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
@@ -27,22 +30,19 @@
   
   "导演": "导演：&&</a>",
   "主演": "主演：&&</li>",
-  "简介": "电影介绍<&&</p>",
+  "简介": "<div class=\"yp_context\">&&</p>",
   
   "线路数组": "在线播放<span&&/span>",
   "线路标题": ">&&<",
   
-  
+  "播放数组": "class=\"paly_list_btn\">&&</div>",  
   "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://www.bttwo.net",
-  "播放链接后缀": "",
-  "播放数组": "class=\"paly_list_btn\">&&</div>",
+  
   "类型": "",
   
 "免嗅":"0",
-"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a#item/video#video_mp4",
-"过滤词": ".html#=http",
+"过滤词": "",
 
 "剧情": "",
 
