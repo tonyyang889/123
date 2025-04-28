@@ -10,7 +10,7 @@
 
 "热门":"国产剧$20",
 
-"二次截取": "",
+"二次截取": "class=\"archive_post\">&&class=\"pagination\">",
 "数组": "class=\"poster\">&&<div class=\"see\">",
 "图片": "<img src=\"&&\"[替换:\\#038;>>空]",
 "标题": "alt=\"&&\"",
