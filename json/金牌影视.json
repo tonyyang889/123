@@ -1,11 +1,10 @@
 {
   "作者": "YYH",
-  "站名": "界影视",
+  "站名": "金牌影视",
   "主页url": "https://www.hkybqufgh.com",
   //http://jmyts.com/  http://www.lyrzj.com/ https://www.jiabaide.cn/
   //https://www.cfkj86.com/
-  "播放请求头": "PC",
-  "请求头": "PC",
+  "请求头": "电脑",
   //"UA": "User-Agent$Mozilla/5.0 (Windows NT 10.0；； Win64；； x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
   "图片代理": "0",
   "热门推荐": "40",
@@ -43,7 +42,8 @@
   "主演": "主演:</div>&&别名",
   "简介": "</label>&&</div>",
   
-  "线路标题": "界影视",
+  "线路数组": "\"value\":{&&\"keyword\"",
+  "线路标题": "\"name\":\"&&\"[替换:界影视>>金牌影视]",
 
   "播放数组": "\"searchParams*{\"v&&}}",
   "播放列表": "{&&}",
