@@ -8,7 +8,7 @@
   
   "数组": "class=\"public-list-exp\"&&</div>",
   "图片": "data-src=\"&&\"",
-  "标题": "alt=\"&&\"",
+  "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
   "副标题": "class=\"public-list-prb hide ft2\">&&</span",
   
