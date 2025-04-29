@@ -1,0 +1,51 @@
+{
+  "作者": "YYH",
+  "站名": "奈菲影视",
+  //
+  "主页url": "https://www.nfyingshi.com",
+  "播放请求头": "电脑",
+  "热门推荐": "40",
+  "倒序": "否",
+  "图片代理": "0",
+
+  "数组": "class=\"thumb lazy\"&&class=\"inzhuy\">",
+  "图片": "data-original=\"&&\"",
+  "标题": "alt=\"&&\"",
+  "链接": "href=\"&&\"",
+
+  "副标题": "class=\"qb\">&&</span>",
+
+  "分类url": "https://www.nfyingshi.com/{cateId}/page/{catePg}[首页=https://www.nfyingshi.com/{cateId}]",
+  "分类": "美剧&英剧&韩剧&真人秀&纪录片",
+  "分类值": "美剧&movie_bt_series/英剧&movie_bt_series/hanju&movie_bt_series/真人秀&movie_bt_series/jilupian",
+  
+  "搜索url": "https://www.nfyingshi.com/?s={wd}.html",
+  "搜索模式": "0",
+  "搜索二次截取": "",
+  "搜索数组": "class=\"thumb lazy\"&&class=\"inzhuy\">",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "class=\"qb\">&&</span>",
+  "搜索链接": "href=\"&&\"",
+  "搜索后缀":"",
+  "搜索链接前缀": "",
+
+  "影片类型": "影视界",
+  "导演":"导演：&&</li>",
+  "主演":"主演：&&</li>",
+  "简介":"请勿相信视频中出现的广告:+class=\"yp_context\">&&<div",
+
+  "线路数组":"class=\"mi_paly_box\">&&/div>",
+  "线路标题":"class=\"ypxingq_t\">&&<span",
+
+  "播放数组":"class=\"paly_list_btn\">&&</div>",
+  "播放列表":"<a&&/a>",
+  "播放标题":">&&<",
+
+  //"调试":"1",
+  
+  "免嗅":"1",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+
+  "筛选":""
+} 
