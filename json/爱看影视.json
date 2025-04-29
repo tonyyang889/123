@@ -18,14 +18,14 @@
   
   
   
-  "搜索url":"https://www.akysw.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
-  "搜索模式": "0",
-  "搜索二次截取": "",
-  "搜索图片": "pic\":&&\"",
-  "搜索标题": "name\":\"&&\"",
-  "搜索链接": "id\":&&,\"",
-  "搜索后缀":"/",
-  "搜索链接前缀": "https://www.akysw.com/voddetail/",
+  "搜索url":"https://www.akysw.com/vodsearch/{wd}-------------.html",
+  "搜索模式": "1",
+  //"搜索二次截取": "",
+  //"搜索图片": "pic\":&&\"",
+  //"搜索标题": "name\":\"&&\"",
+  //"搜索链接": "id\":&&,\"",
+  //"搜索后缀":"/",
+  //"搜索链接前缀": "https://www.akysw.com/voddetail/",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
