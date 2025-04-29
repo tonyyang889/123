@@ -106,7 +106,7 @@
 //{"name":"BTTWO(xBPQ)电视不能放","key":"csp_xBPQ_Bttwo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/bttwo.json"},
 //{"name": "星影仅搜索","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
 //{"name": "热播┃(xBPQ)分类不出来","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
-//{"name": "爱看┃(xBPQ)","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
+{"name": "爱看┃(xBPQ)","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 //{"name": "人人┃(xBPQ)电视N","key":"rrysxbpq","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/rrys.json"},
 //{"name": "低端(xBPQ)电视不能放","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "./json/低端.json"},
 //{"name": "*七年┃(xBPQ)","key":"XBPQ_qnys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qnys.json"},
