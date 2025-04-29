@@ -3,31 +3,38 @@
     "请求头": "电脑",
     "站名": "CZ",
     "主页url": "https://www.czzy77.com",
-    "请求头": "手机",
-    "热门推荐": "30",
+    "热门推荐": "0",
     "起始页": "1",
     "直接播放": "0",
     "倒序播放": "0",
     "图片代理": "0",
     "二次截取": "",
+	"热门":"国产剧$20",
+	
     "副标题": "class=\"jidi\">&&</span>",
 
     "导演": "导演：&&</li>",
     "主演": "主演：&&</p>",
-    "简介": "电影介绍&&</p>",
+    "简介": "请勿相信视频中出现的广告:+ class=\"yp_context\">&&<div",
 
     "线路数组": "class=\"mi_paly_box\">&&</div>",
-    "线路标题": "<span>&&</span>",
+    "线路标题": "<span>&&</span>[替换:在线观看>>影视界]",
 
     "播放标题": ">&&</a",
     "播放数组": "class=\"paly_list_btn&&</div>",
     "播放链接": "href=\"&&\"",
-    "播放链接前缀": "https://www.czzy77.com",
+    //"跳转播放链接": "class=\"viframe\"*src=\"&&\"[替换::2096>>空]",
+    //"二次跳转播放链接": "const mysvg*\'&&\';",
 
+    //"调试":"1",
     "分类url":"https://www.czzy77.com/{cateId}/page/{catePg}",
-    "分类":"豆瓣电影Top250$dbtop250#最新电影$zuixindianying#热映中$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧剧$fanju",
+    "分类":"豆瓣电影Top250$dbtop250#最新电影$zuixindianying#剧场版$dongmanjuchangban#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧剧$fanju",
     "类型": "",
-     
+    
+	"搜索url": "https://www.czzy77.com/daoyongjiekoshibushiy0ubing?q={wd}",
+    "搜索模式": "1",
+
+
 	"免嗅":"1",
     "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 	
