@@ -3,16 +3,16 @@
   "站名": "爱看影视仅搜索",
   "主页url": "https://www.akysw.com",
   //https://www.aikanys.vip/-https://www.akanhd.com/
-  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.akysw.com",
+  "播放请求头": "电脑",
   "热门推荐": "40",
   
-  "数组": "class=\"public-list-exp\"&&</div>",
+  "数组": "class=\"public-list-exp\"&&class=\"public-play\">",
   "图片": "data-src=\"&&\"",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
-  "副标题": "class=\"public-list-prb hide ft2\">&&</span",
+  "副标题": "4e2d03;\">&&</span",
   
-  "分类url": "https://www.akysw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+  "分类url": "https://www.akysw.com/vodshow/{cateId}-----------.html",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
@@ -20,12 +20,6 @@
   
   "搜索url":"https://www.akysw.com/vodsearch/{wd}-------------.html",
   "搜索模式": "1",
-  //"搜索二次截取": "",
-  //"搜索图片": "pic\":&&\"",
-  //"搜索标题": "name\":\"&&\"",
-  //"搜索链接": "id\":&&,\"",
-  //"搜索后缀":"/",
-  //"搜索链接前缀": "https://www.akysw.com/voddetail/",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
@@ -41,8 +35,7 @@
   "播放列表": "<li&&</li>",
   "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "",
-  "播放链接后缀": "",
+  //"调试":"1",
   
 "免嗅":"0",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
