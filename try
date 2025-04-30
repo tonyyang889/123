@@ -58,7 +58,6 @@
 //{"name": "世觉┃(xBPQ)","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/sjyy.json"},
 //{"name": "APP才能看视觉┃(xBPQ)","jar": "./app/xBPQ0606.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/xsj.json"},
 //{"name": "没画面北川┃(xBPQ)","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
-{"name": "️厂长┃(xBPQ)","key": "csp_厂长","playerType":2,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/厂长.json"},
 {"name": "*没画面子子┃(xBPQ)","key":"csp_zzys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子影视.json"},
 //{"name":"蛋蛋剧┃(xBPQ)","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 //{"name": "*看美剧┃(xBPQ)","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
