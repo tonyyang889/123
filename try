@@ -10,7 +10,6 @@
 
 {"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name":"TV影视┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_tv12","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tv121.json"},
-{"name": "天天┃秒播","key": "天天","jar": "https://gitee.com/senno/tvbox/raw/master/jar/巧技.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "7lj763gg09397919456493i0h44j8681highi4"},
 {"name":"界影视*┃(xBPQ)","key":"csp_jpys1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/金牌影视.json"},
 {"name": "糯米┃(xBPQ)","key":"csp_lmys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 {"name": "音乐专区┃music","jar":"./app/mv.bmp","key": "MTV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./json/mv.json"},
