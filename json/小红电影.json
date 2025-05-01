@@ -21,11 +21,11 @@
   
   "搜索url": "https://xiaohys.com/search{wd}/page/{catePg}/",
   "搜索模式": "1",
-  "搜索数组": "class=\"public-list-exp\"&&</div>",
+  "搜索数组": "a*class=\"public-list-e&&class=\"thumb-else cor5 hide",
   "搜索图片": "data-src=\"&&\"",
   "搜索副标题": "class=\"public-list-prb hide ft2\">&&</span>",
-  "搜索标题": "title=\"&&\"",
-  "搜索链接": "href=\"&&\"",
+  "搜索标题": "target=\"_self\"*>&&</a>",
+  "搜索链接": "xp\" href=\"&&\"",
   "搜索后缀":"",
   "搜索链接前缀": "",
   
