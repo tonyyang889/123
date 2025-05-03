@@ -12,15 +12,6 @@
 {"key": "短剧屋","name": "短剧屋｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/DJWu.json"},
 {"key": "短剧合集","name": "短剧｜合集","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/js/quark.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/js/DJHJ.js","style": {  "type": "list"}},
 {"key": "短剧大全","name": "短剧｜大全","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/js/quark.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/js/DJDQ.js","style": {  "type": "list"}},
-{"key": "旺旺短剧","name": "旺旺短剧","jar": "http://zhangqun1818.serv00.net/zq/fm.jar","type": 1,"api": "http://zhangqun1818.serv00.net:5052","style": {"type": "rect","ratio": 1.33},
-
-{"key": "无忧短剧","name": "无忧｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0},
-{"key": "在线短剧","name": "在线｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_Duanju","searchable": 1,"changeable": 0},
-{"key": "星芽短剧","name": "星芽｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "天堂短剧","name": "天堂｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "https://tvbox.newhi.net/JS/drpy2.min.js","ext": "https://tvbox.newhi.net/JS/天堂短剧.js"},
-{"key": "爱你短剧","name": "爱你｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.newhi.net/XYQHiker/爱你短剧.json"},
-{"key": "河马短剧","name": "河马｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.newhi.net/XYQHiker/河马短剧.json"},
-{"key": "短剧屋","name": "短剧屋｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.newhi.net/XYQHiker/短剧屋.json"},
 
 
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
