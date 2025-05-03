@@ -12,6 +12,7 @@
 {"name":"腾讯┃视频","key":"腾讯视频1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
 {"name":"爱奇艺┃APP","key":"AQYsp1","api":"./js/drpy2.min.js","jar":"./app/spider.bmp","ext": "./json/AQY.js","type":3,"playerType":2},
 {"name":"七味┃4K","key":"csp_QnMp4","jar": "./app/25xyqh.bmp","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"X6V┃4K","key": "csp_New6v","jar": "./app/25xyqh.bmp","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
 {"name":"4VM┃(xBPQ)","key":"csp_4kys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4K影院.json"},
 {"name":"电影┃(xBPQ)","key":"csp_4kysdy01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4K影院电影.json"},
 //{"name":"纯享┃秒播","key":"WexF4kvmGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742218962852/wex.txt","api":"csp_WexF4kvmGuard","type":3,"searchable":1,"filterable":1,"changeable":1},
