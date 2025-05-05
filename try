@@ -71,6 +71,7 @@
 {"name":"磁力狗┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_磁力狗","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/磁力狗.json"},
 {"name": "影港┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_xyqh-dyg","type":3,"api":"csp_XYQHiker","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影港.json"},
 //{"name":"种子跳转到夸克了高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
+{"name": "无极┃磁力(xBPQ)","key":"csp_wjcl01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无极磁力.json"},
 
 //XYQH
 {"name":"农民影视┃XYQH","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_nmys","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
@@ -97,9 +98,6 @@
 //{"name": "IRROR┃(xBPQ)电视N","key":"csp_xBPQ-irror","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/irror.json"},
 //{"name": "555┃(xBPQ)电视N","key":"csp_xBPQ_555yy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/555影院.json"},
 //{"name": "世觉┃(xBPQ)","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/视觉影院.json"},
-//{"name": "磁力07(xBPQ)","key":"csp_mycl011","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蚂蚁磁力.json"},
-//{"name": "磁力06(xBPQ)","key":"csp_mycl012","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蚂蚁磁力.json"},
-//{"name": "无极┃磁力(xBPQ)","key":"csp_wjcl01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无极磁力.json"},
 //{"name":"BTTWO(xBPQ)电视不能放","key":"csp_xBPQ_Bttwo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/bttwo.json"},
 //{"name": "星影仅搜索","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
 //{"name": "热播┃(xBPQ)分类不出来","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
