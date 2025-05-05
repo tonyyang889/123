@@ -1,9 +1,9 @@
 {
 "作者":"YYH",
 "站名":"达达龟",
-"主页url":"https://www.dadagui.me",
+"主页url":"https://www.ddgys.vip",
 //https://www.dadagui.vip
-"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
+"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.ddgys.vip",
 "热门推荐": "40",
 "起始页": "1",
 "直接播放": "0",
@@ -24,7 +24,7 @@
 
 "播放列表":"<li>&&</li>",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.dadagui.me",
+"播放链接前缀": "https://www.ddgys.vip",
 
 "导演": "导演：&&</p",
 "主演": "主演：&&</p",
@@ -32,7 +32,7 @@
 
 "免嗅":"0",
 
-"分类url":"https://www.dadagui.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类url":"https://www.ddgys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "类型": "",
 "剧情": "1",
