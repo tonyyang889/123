@@ -5,11 +5,11 @@
   "网页编码格式": "UTF-8",
   "图片是否需要代理": "0",
   "是否开启获取首页数据": "1",
-  "首页推荐链接": "https://ktyqerfw.6006091.xyz",
+  "首页推荐链接": "https://ixggpvpn.6006091.xyz",
   //https://clgougou.cyou/-https://clga80.buzz/-www.6006092.xyz/-www.6006091.xyz
    
   "搜索请求头参数": "User-Agent$PC_UA#Cookie$esc_search_captcha=1",
-  "搜索链接": "https://ktyqerfw.6006091.xyz/search-{wd}-0-0-1.html",
+  "搜索链接": "https://ixggpvpn.6006091.xyz/search-{wd}-0-0-1.html",
   "POST请求数据": "",
   "搜索截取模式": "1",
   "搜索列表数组规则": ".search_list&&dl",
@@ -18,7 +18,7 @@
   "搜索片单标题": "[target=_blank]&&Text",
   "搜索片单链接": "a&&href",
   "搜索片单副标题": "span,6&&Text",
-  "搜索片单链接加前缀": "https://ktyqerfw.6006091.xyz",
+  "搜索片单链接加前缀": "https://ixggpvpn.6006091.xyz",
   "搜索片单链接加后缀": "",
   
   "链接是否直接播放": "0",
