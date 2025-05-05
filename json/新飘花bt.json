@@ -6,12 +6,12 @@
 "分类url": "http://www.xpiaohua.com/column/{cateId}/list_{catePg}.html",
 "分类": "动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#悬疑片$xuanyi#战争片$zhanzheng#恐怖片$kongbu#灾难片$zainan#连续剧$lianxuju#动漫$dongman#记录片$jilu#综艺$zongyi",
 "网页编码格式": "gb2312",
-
-"数组":"<a &&</a>",
+"二次截取":"id=\"iml\">&&style=\"padding-left",
+"数组":"<a&&</a>",
 "图片": "src=\"&&\"",
 "链接": "href=\"&&\"", 
 "标题": "alt=\"&&\"",
-
+"图片代理": "1",
 //"搜索模式": "0",
 "搜索url": "http://www.xpiaohua.com/plus/search.php?q={wd}&searchtype.x=1{catePg}&searchtype.y=13",
 "搜索数组":"<a &&</a>",
@@ -26,6 +26,7 @@
 "播放链接":"href=\"&&\">",
 //"播放标题":"[电影天堂www.dytt89.com]&&</a>",
 
+//"调试":"1",
 "年代": "年份：&&</a>",
 "地区": "地区：&&</a>",
 "类型": "类型：&&</p>",
