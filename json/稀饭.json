@@ -22,7 +22,7 @@
   "影片类型": "类型 :&&</a>",
   "导演": "导演：</span>&&</div>",
   "主演": "演员 :&&</div>",
-  "简介": "请勿相信视频中出现的广告:+class=\"module-info-introduction-content\">&&</div>",
+  "简介": "请勿相信视频中出现的广告:+class=\"module-info-introduction-content\">*<p>&&</div>",
   
   "线路数组": "class=\"module-tab-item tab-item\"&&/div>[不包含:光速#奇人艺士#飞速]",
   "线路标题": "<span>&&</small>[替换:</span><small>>>空]",
