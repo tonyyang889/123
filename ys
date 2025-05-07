@@ -34,7 +34,8 @@
 //{"name": "人人┃(xBPQ)","key":"csp_rrys001","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
 {"name":"骚火┃(xBPQ)","key":"csp_shys","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火影视.json"},
 {"name":"糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
-{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+{"name": "稀饭┃(xBPQ)","key":"csp_xfys解码","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
+//{"name":"影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 //{"name":"海纳┃(xBPQ)","key":"csp_HLys02","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/海纳影视.json"},
 {"name":"搜索┃(xBPQ)","key":"csp_小红","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小红电影.json"},
 //{"name":"搜索1┃(xBPQ)","key":"csp_路飞","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/路飞.json"},
@@ -48,7 +49,6 @@
 //{"name":"皮皮蛋┃(xBPQ)","key":"csp_皮皮蛋","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/皮皮蛋.json"},
 //{"name":"GZ影视同热播┃(xBPQ)","key":"csp_gzysyy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/GZ影视.json"},
 //{"name":"追剧┃(xBPQ)","key":"csp_zjtv1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/追剧.json"},
-//{"name":"稀饭┃(xBPQ)","key":"csp_xfys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 //{"name":"七新电影┃(xBPQ)","key":"csp_qxdy","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影.json"},
 //{"name":"LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/LIBVIO.json"},
 
