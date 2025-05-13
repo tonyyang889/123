@@ -13,13 +13,13 @@
 {"name": "白白｜影视","key": "白白影视","jar":"./app/subaibai.bmp","type": 3,"api": "csp_SuBaiBai","ext": "https://www.subaibai.com"},
 
 //以下来自OK吊炸天http://ok321.top/tv-https://10936.kstore.space/tv后一个不能解密
-{"name":"网盘配置┃中心","key":"配置中心","jar":"./app/okys.bmp","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-{"name":"清影┃4K弹幕","key":"清影","jar":"./app/okys.bmp","type":3,"api":"csp_QingYingGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
+//{"name":"网盘配置┃中心","key":"配置中心","jar":"./app/okys.bmp","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
+//{"name":"清影┃4K弹幕","key":"清影","jar":"./app/okys.bmp","type":3,"api":"csp_QingYingGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
 //{"name":"123云盘┃4K","key":"123分享","jar":"./app/okys.bmp","type":3,"api":"csp_Time123Guard","quickSearch":0,"changeable":0,"filterable":1,"timeout":25},
 {"name":"360┃弹幕","key":"时常弹幕","jar":"./app/okys.bmp","type":3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
 {"name":"糯米┃弹幕","key":"糯米","jar":"./app/okys.bmp","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
-{"name":"热播┃弹幕","key":"热播弹幕版","jar":"./app/okys.bmp","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":0},"timeout":10},
-{"name":"瓜子┃弹幕","key":"瓜子","jar":"./app/okys.bmp","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+//{"name":"热播┃弹幕","key":"热播弹幕版","jar":"./app/okys.bmp","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":0},"timeout":10},
+//{"name":"瓜子┃弹幕","key":"瓜子","jar":"./app/okys.bmp","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
 
 //{"name":"糯米┃(xBPQ)","key":"csp_lmys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
 //无图片{"name":"金牌影视┃(xBPQ)","key":"csp_jpys1","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/金牌影视.json"},
