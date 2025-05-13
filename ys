@@ -8,16 +8,24 @@
 //sp
 
 {"name":"金牌┃秒播","key": "jinpai1","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JPYS.py","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com"}},
-{"name":"腾讯┃视频","key":"腾讯视频1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
-{"name":"爱奇艺┃APP","key":"AQYsp1","api":"./js/drpy2.min.js","jar":"./app/spider.bmp","ext": "./json/AQY.js","type":3,"playerType":2},
-{"name":"七味┃4K","key":"csp_QnMp4","jar": "./app/25xyqh.bmp","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
+
+//以下来自OK吊炸天http://ok321.top/tv-https://10936.kstore.space/tv后一个不能解密
+{"name":"网盘配置┃中心","key":"配置中心","jar":"./app/okys.bmp","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
+{"name":"清影┃4K弹幕","key":"清影","jar":"./app/okys.bmp","type":3,"api":"csp_QingYingGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
+{"name":"123云盘┃4K","key":"123分享","jar":"./app/okys.bmp","type":3,"api":"csp_Time123Guard","quickSearch":0,"changeable":0,"filterable":1,"timeout":25},
+{"name":"360┃弹幕","key":"时常弹幕","jar":"./app/okys.bmp","type":3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+//{"name":"糯米┃弹幕","key":"糯米","jar":"./app/okys.bmp","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+//{"name":"热播┃弹幕","key":"热播弹幕版","jar":"./app/okys.bmp","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":0},"timeout":10},
+//{"name":"瓜子┃弹幕","key":"瓜子","jar":"./app/okys.bmp","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+
 {"name":"X6V┃4K","key": "csp_New6v","jar": "./app/25xyqh.bmp","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
 {"name":"4VM┃(xBPQ)","key":"csp_4kys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4K影院.json"},
 {"name":"电影┃(xBPQ)","key":"csp_4kysdy01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4K影院电影.json"},
 //{"name":"纯享┃秒播","key":"WexF4kvmGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742218962852/wex.txt","api":"csp_WexF4kvmGuard","type":3,"searchable":1,"filterable":1,"changeable":1},
 {"name": "零度┃PY","key": "旺旺影视","type": 3,"api": "https://github.moeyy.xyz/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/app/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86APP.py"},
+
 //{"name": "苹果｜弹幕","jar": "./app/xiaosa.bmp","key": "小苹果弹幕","playerType": 1,"type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
-//https://9877.kstore.space/AnotherD/api.json小苹果来源
+//https://9877.kstore.space/AnotherD/api.json-PY来源
 {"name": "苹果┃PY","key": "苹果2","playerType":2,"type": 3,"api": "./json/小苹果.py"},
 {"name": "️厂长┃(xBPQ)","key": "csp_厂长","playerType":2,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/厂长.json"},
 {"name":"音乐┃music","jar":"./app/mv.bmp","key":"MTV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/mv.json"},
@@ -25,7 +33,7 @@
 {"name":"在线┃直连","key":"ZXZJ","jar":"./app/qj.bmp","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473"},
 //{"name":"厂长┃直连","jar":"./app/qj.bmp","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"},
 {"name":"低端┃直连","jar":"./app/qj.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-//http://pandown.pro/tvbox/tvbox.json
+//巧技http://pandown.pro/tvbox/tvbox.json
 
 //XBPQ
 //{"name":"HHL影院┃(xBPQ)","key":"csp_红狐狸","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/红狐狸电影.json"},
@@ -60,8 +68,10 @@
 //{"name":"缘觉影视┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_XYQHiker_yjys","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yjys.json"},
 //{"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 //{"name":"七新电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_XYQHiker_qxdyy","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/七新电影XYQH.json"},
+//{"name":"七味┃4K","key":"csp_QnMp4","jar": "./app/25xyqh.bmp","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
 
-
+//{"name":"腾讯┃视频","key":"腾讯视频1","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar","type":3,"playerType":2,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
+//{"name":"爱奇艺┃APP","key":"AQYsp1","api":"./js/drpy2.min.js","jar":"./app/spider.bmp","ext": "./json/AQY.js","type":3,"playerType":2},
 //{"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
 
 //{"name":"热播┃app","key":"热播弹幕","jar":"./app/dm.bmp","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
