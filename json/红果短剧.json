@@ -1,0 +1,53 @@
+{
+  "作者": "YYH",
+  "站名": "红果短剧",
+  //https://www.hgdj.app
+  "主页url": "https://www.hgdj.app",
+  "播放请求头": "手机",
+  "热门":"全部$20",
+  "倒序": "否",
+  "图片代理": "0",
+  
+  "数组": "class=\"hl-list-item hl-col-xs-4&&class=\"hl-item-text\">",
+  "图片": "data-original=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "副标题": "hl-lc-1 remarks\">&&</span>",
+
+  "分类url": "https://www.hgdj.app/vodshow/{cateId}--------{catePg}---.html",
+  "分类": "全部&女频恋爱&反转爽剧&古装仙侠&年代穿越&脑洞悬疑&现代都市&有声动漫",
+  "分类值": "duanju&nvpinlianai&fanzhuanshuangju&guzhuangxianxia&niandaichuanyue&naodongxuanyi&xiandaidushi&youshengdongman",
+  
+  "搜索url": "https://www.hgdj.app/vodsearch/-------------.html?wd={wd}&submit=",
+  "搜索模式": "1",
+  "搜索数组": "class=\"hl-item-thumb hl-lazy\"*data-or&&class=\"hl-item-sub hl-text-muted[包含:短剧]",
+  "搜索图片": "iginal=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索链接前缀": "",
+  
+  //"影片年代": "年份：&&</p>",
+  //"影片地区": "地区：&&<span",
+  "影片类型": "影视界",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "请勿相信视频中出现的广告:+简介：</em>&&</li>",
+  
+  //"线路数组二次截取": "class=\"nav nav-tabs pull-right&&></ul",  
+  "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&/a>",
+  "线路标题": "alt=\"&&\"",
+  
+  "播放数组": "id=\"hl-plays-list\">&&<div",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<",
+  "播放链接": "href=\"&&\"",
+  
+  //"跳转解析": "默认$https://jx.2s0.cn/player/analysis.php?v=",
+  "跳转播放链接": "\"vod_class\"*url\":\"&&\"",
+  "调试":"",
+  
+  "免嗅":"0",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+
+  "筛选":""
+} 
