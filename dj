@@ -18,6 +18,8 @@
 
 {"key": "河马短剧1","name": "河马1｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.newhi.net/XYQHiker/河马短剧.json"},
 
+{"name": "红果短剧","key": "红果短剧","type": 3,"api": "https://gh.catmak.name/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/html/红果网页.py"},
+
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
 ],
