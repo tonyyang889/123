@@ -6,8 +6,10 @@
 
 {"key": "星芽短剧","name": "星芽｜短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
 
-{"key": "旺旺短剧","name": "旺旺短剧","type": 1,"api": "http://zhangqun1818.serv00.net:5052","jar": "http://zhangqun1818.serv00.net/zq/fm.jar","style": {"type": "rect","ratio": 1.33},"searchable": 1,"changeable": 0},
-		
+{"key": "旺旺短剧","name": "旺旺┃短剧","type": 1,"api": "http://zhangqun1818.serv00.net:5052","jar": "http://zhangqun1818.serv00.net/zq/fm.jar","style": {"type": "rect","ratio": 1.33},"searchable": 1,"changeable": 0},
+
+{"name": "红果┃短剧","key":"红果短剧","jar":"./app/xBPQ1106.bmp","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/红果短剧.json"},
+
 {"key": "河马短剧","name": "河马｜短剧","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 
 {"key": "偷乐短剧","name": "偷乐｜短剧","type": 3,"api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
@@ -18,7 +20,7 @@
 
 {"key": "河马短剧1","name": "河马1｜短剧","jar": "https://tvbox.newhi.net/spider.jar","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.newhi.net/XYQHiker/河马短剧.json"},
 
-{"name": "红果短剧","key": "红果短剧","type": 3,"api": "https://gh.catmak.name/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/html/红果网页.py"},
+{"name": "红果1┃PY","key": "红果短剧","type": 3,"api": "https://gh.catmak.name/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/html/红果网页.py"},
 
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
