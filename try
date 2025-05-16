@@ -14,6 +14,7 @@
 {"name":"糯米┃弹幕","key":"糯米","jar":"./app/okys.bmp","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
 {"name":"热播┃弹幕","key":"热播弹幕版","jar":"./app/okys.bmp","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":0},"timeout":10},
 {"name":"瓜子┃弹幕","key":"瓜子","jar":"./app/okys.bmp","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
+{"name": "小红影视","key": "小红影视","type": 3,"api": "https://gh.catmak.name/https://github.com/JJBJJ/PyramidStore/blob/main/plugin/html/小红影视.py"},
 
 //http://pandown.pro/tvbox/tvbox.json巧技
 {"name":"在线┃直连","key":"ZXZJ","jar":"./app/qj.bmp","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473"},
