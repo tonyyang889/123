@@ -21,7 +21,7 @@
 
 "线路数组":"<a data-toggle=\"tab\"&&/a>",
 "线路标题":">&&<",
-"调试":"1",
+//"调试":"1",
 
 "播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
 "播放链接":"href=\"&&\"",
