@@ -1,0 +1,48 @@
+{
+"作者":"YYH",
+"站名":"黑狐影院",
+"主页url":"http://kuaijiz.com",
+//woniu.info-http://heihu.info/来自奇优解析-http://woniu.info
+"数组":"<div class=\"stui-vodlist__box\">&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title text-overflow\">*\">&&</a>",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"pic-text text-right\">&&</span>",
+"倒序播放": "0",
+
+"搜索url":"http://kuaijiz.com/search.php;post;searchword={wd}",
+"搜索模式":"1",
+"搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"[不包含:色#一路向西#玉蒲团#嫂子#情色#青楼#金瓶#官人#五十度灰#蜜桃成熟时#满清十大酷刑#艳谭#挡不住的疯情#惊变#赤裸羔羊#卿本佳人#我为卿狂#豪放#诱惑#欲望#兽性#虐之恋#南洋十大邪术#邪完再邪#蛇魔追魂降#强奸#偷情#可可西里的美丽传说#一支梨花压海棠#苦月亮#戏梦巴黎#性爱]",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+"搜索后缀":"",
+
+"线路数组":"<a data-toggle=\"tab\"&&/a>",
+"线路标题":">&&<",
+
+"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:奇异视频>咪咕视频>搜狐视频>优酷视频]",
+"线路标题":">&&<",
+
+"播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
+"播放链接":"href=\"&&\"",
+//"跳转播放链接":"allowfullscreen*src=\"&&\"[替换:amp;>>空]",
+//"跳转解析": "默认$http://api.kuaijiz.com/player/api.php?url=",
+//http://api.kuaijiz.com/player/api.php?url=   http://api.qfffbw.cn:81/m3u8/play.php?vid=
+"跳转播放链接":"allowfullscreen*src=\"&&\"[替换:amp;>>空]",
+//"二次跳转播放链接": "var vid=\"&&\"",
+
+"影片年代":"年份：&&</p>",
+"影片地区":"地区：&&<span",
+"影片类型":"类型：&&</a>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</a>",
+
+"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+
+"分类url":"http://kuaijiz.com/list/{cateId}_{catePg}.html;;au0",
+"分类":"电影$1#电视剧$2#动漫$3#综艺$4",
+"筛选":""
+}
