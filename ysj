@@ -43,7 +43,7 @@
 
 //xBPQ
 {"name": "人人┃(xBPQ)","key":"csp_rrys001","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视.json"},
-{"name": "奇优┃(xBPQ)","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.bmp"},
+{"name": "奇优┃(xBPQ)","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.catmak.name/https://github.com/tonyyang889/ys/blob/master/json/hfyy.json"},
 {"name": "影视┃(xBPQ)","key":"csp_白嫖bpys01","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name": "稀饭┃(xBPQ)","key":"csp_xfys解码","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 {"name": "搜索1┃(xBPQ)","key":"csp_路飞","timeout":15,"playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/路飞.json"},
