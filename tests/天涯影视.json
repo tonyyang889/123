@@ -38,11 +38,11 @@
     "播放二次截取": "",
     "播放列表": "class=\"text-muted&&</li>",
     "播放标题": "class=\"copy_text\">&&<span",
-    //"播放链接": "hidden-xs\">$&&</span>",
+    "播放链接": "hidden-xs\">$&&</span>",
 	
-	"跳转解析": "默认$https://tyyszywjx.com/?url=",
+	 //"跳转解析": "默认$https://tyyszywjx.com/?url=",
     //"播放链接前缀":"",
-    "跳转播放链接":"解析+hidden-xs\">$&&</span>",
+     //"跳转播放链接":"解析+hidden-xs\">$&&</span>",
 	
 	//"调试":"1",
 	
