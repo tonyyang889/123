@@ -15,7 +15,7 @@
   "副标题": "rounded\">&&</div>",
   "链接": "href=\"&&\"",
 
-  "分类url": "http://caiji.dyttzyapi.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+  "分类url": "http://caiji.dyttzyapi.com/index.php/vod/type/id/{cateId}/page/{catePg}.html;;rc",
   "分类": "国产剧&电影&电视剧&综艺&动漫",
   "分类值": "13&1&2&3&4",
   
@@ -31,23 +31,22 @@
   "主演": "演员</td>&&</td>",
   "简介": "请勿相信片中广告，以免上当受双骗。+scrollbar-track-extra-grey\">&&</p>",
 
-// "调试":"1", 
+ "调试":"1", 
   "线路数组": "class=\"col-span-2&&</h4>",
-  "线路标题": "<div>&&地址</div>[排序:dyttm3u8>dytt]",
+  "线路标题": "<div>&&地址</div>[排序:dyttm3u8>dytt][替换:dyttm3u8>>影视#dytt>>线路二][不包含:线路二]",
   //"线路标题": "<div>&&</div>[替换:dyttm3u8地址>>影视界#dytt地址>>影视界1]",
     
   "播放数组": "class=\"playlist wbox&&class=\"mt-2\">",
   "播放列表": "class=\"flex-auto&&target=\"_blank",
   "播放标题":"title=\"&&\"",
   "播放链接":"href=\"&&\"",
-  //"跳转解析": "默认$空#影视界$https://vip.dyttzyplay.com/?url=",
-//"播放链接前缀":"",
-  //"跳转播放链接":"解析+href=\"&&\"",
-
+  //"跳转解析": "默认$https://vip.dyttzyplay.com/?url=",
+  //"跳转播放链接":"解析+https://vip.dytt-kan.com+const url = \"&&\"",
+  //"跳转播放链接前缀":"https://vip.dytt-kan.com",
 //"播放链接前缀": "http://caiji.dyttzyapi.com",
 //"播放链接后缀": "",
   
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
 "筛选":{
